@@ -1,0 +1,821 @@
+[
+ {
+  "file": "a00.jpg",
+  "mat": "M_Frm_07_07_26_201004",
+  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/07-07-26-201004.png",
+  "px": [
+   512,
+   350
+  ],
+  "world_w": 0.712,
+  "bytes": 61530
+ },
+ {
+  "file": "a01.jpg",
+  "mat": "M_Frm_07_07_26_201009",
+  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/07-07-26-201009.png",
+  "px": [
+   632,
+   632
+  ],
+  "world_w": 1.265,
+  "bytes": 84485
+ },
+ {
+  "file": "a02.jpg",
+  "mat": "M_Frm_07_07_26_201028",
+  "path": "ROOMS/HALLWAY/Hall_2",
+  "slot": 1,
+  "src": "Assets/Framed pictures/07-07-26-201028.png",
+  "px": [
+   512,
+   748
+  ],
+  "world_w": 0.816,
+  "bytes": 94571
+ },
+ {
+  "file": "a03.jpg",
+  "mat": "M_Frm_07_07_26_201048",
+  "path": "ROOMS/BATHROOM/Pic_BATHROOM_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/07-07-26-201048.png",
+  "px": [
+   632,
+   632
+  ],
+  "world_w": 1.265,
+  "bytes": 99288
+ },
+ {
+  "file": "a04.jpg",
+  "mat": "M_Frm_1",
+  "path": "ROOMS/HALLWAY/Hall_3",
+  "slot": 1,
+  "src": "Assets/Framed pictures/1.png",
+  "px": [
+   953,
+   536
+  ],
+  "world_w": 1.906,
+  "bytes": 90443
+ },
+ {
+  "file": "a05.jpg",
+  "mat": "M_Frm_10",
+  "path": "ROOMS/ENTRY/Entry_Pic_N1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/10.jpg",
+  "px": [
+   1124,
+   632
+  ],
+  "world_w": 2.248,
+  "bytes": 113513
+ },
+ {
+  "file": "a06.jpg",
+  "mat": "M_Frm_11",
+  "path": "OFFSITE/BED_MASTER/ART/Art_11",
+  "slot": 1,
+  "src": "Assets/Framed pictures/11.png",
+  "px": [
+   1210,
+   681
+  ],
+  "world_w": 2.421,
+  "bytes": 134643
+ },
+ {
+  "file": "a07.jpg",
+  "mat": "M_Frm_12",
+  "path": "OFFSITE/BED_GUEST/ART/Art_12",
+  "slot": 1,
+  "src": "Assets/Framed pictures/12.png",
+  "px": [
+   1210,
+   681
+  ],
+  "world_w": 2.421,
+  "bytes": 82181
+ },
+ {
+  "file": "a08.jpg",
+  "mat": "M_Frm_13",
+  "path": "ROOMS/ENTRY/Entry_Pic_N0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/13.png",
+  "px": [
+   1124,
+   632
+  ],
+  "world_w": 2.248,
+  "bytes": 142458
+ },
+ {
+  "file": "a09.jpg",
+  "mat": "M_Frm_14",
+  "path": "OFFSITE/BED_MASTER/ART/Art_14",
+  "slot": 1,
+  "src": "Assets/Framed pictures/14.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 93325
+ },
+ {
+  "file": "a10.jpg",
+  "mat": "M_Frm_15",
+  "path": "ROOMS/CHILL/Chill_Art/Chill_Canvas_E/Chill_E",
+  "slot": 1,
+  "src": "Assets/Framed pictures/15.png",
+  "px": [
+   793,
+   446
+  ],
+  "world_w": 1.586,
+  "bytes": 52480
+ },
+ {
+  "file": "a11.jpg",
+  "mat": "M_Frm_16",
+  "path": "OFFSITE/BED_GUEST/ART/Art_16",
+  "slot": 1,
+  "src": "Assets/Framed pictures/16.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 128246
+ },
+ {
+  "file": "a12.jpg",
+  "mat": "M_Frm_17",
+  "path": "ROOMS/CHILL/Chill_Art/Chill_Canvas_W/Chill_W",
+  "slot": 1,
+  "src": "Assets/Framed pictures/17.png",
+  "px": [
+   563,
+   1001
+  ],
+  "world_w": 1.126,
+  "bytes": 82698
+ },
+ {
+  "file": "a13.jpg",
+  "mat": "M_Frm_1755428593177820",
+  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/1755428593177820.jpg",
+  "px": [
+   512,
+   683
+  ],
+  "world_w": 0.712,
+  "bytes": 81673
+ },
+ {
+  "file": "a14.jpg",
+  "mat": "M_Frm_1758593527288317",
+  "path": "ROOMS/HALLWAY/Hall_0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/1758593527288317.jpg",
+  "px": [
+   954,
+   537
+  ],
+  "world_w": 1.907,
+  "bytes": 67378
+ },
+ {
+  "file": "a15.jpg",
+  "mat": "M_Frm_1771119352683",
+  "path": "Art_art_p2",
+  "slot": 1,
+  "src": "Assets/Framed pictures/1771119352683.png",
+  "px": [
+   512,
+   917
+  ],
+  "world_w": 0.76,
+  "bytes": 98559
+ },
+ {
+  "file": "a16.jpg",
+  "mat": "M_Frm_17_asmr",
+  "path": "OFFSITE/BED_MASTER/ART/Art_17_asmr",
+  "slot": 1,
+  "src": "Assets/Framed pictures/17_asmr.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 79530
+ },
+ {
+  "file": "a17.jpg",
+  "mat": "M_Frm_18",
+  "path": "OFFSITE/BED_GUEST/ART/Art_18",
+  "slot": 1,
+  "src": "Assets/Framed pictures/18.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 149534
+ },
+ {
+  "file": "a18.jpg",
+  "mat": "M_Frm_19",
+  "path": "ROOMS/CHILL/Pic_CHILL_00b",
+  "slot": 1,
+  "src": "Assets/Framed pictures/19.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 137634
+ },
+ {
+  "file": "a19.jpg",
+  "mat": "M_Frm_2",
+  "path": "OFFSITE/BED_MASTER/ART/Art_2",
+  "slot": 1,
+  "src": "Assets/Framed pictures/2.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 92241
+ },
+ {
+  "file": "a20.jpg",
+  "mat": "M_Frm_20",
+  "path": "OFFSITE/BED_GUEST/ART/Art_20",
+  "slot": 1,
+  "src": "Assets/Framed pictures/20.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 53972
+ },
+ {
+  "file": "a21.jpg",
+  "mat": "M_Frm_20241126_004810",
+  "path": "ROOMS/HALLWAY/Hall_B",
+  "slot": 1,
+  "src": "Assets/Framed pictures/20241126_004810.jpg",
+  "px": [
+   668,
+   482
+  ],
+  "world_w": 1.336,
+  "bytes": 91749
+ },
+ {
+  "file": "a22.jpg",
+  "mat": "M_Frm_20260105_010344",
+  "path": "LOUNGE/Pic_LOUNGE_01",
+  "slot": 1,
+  "src": "Assets/Framed pictures/20260105_010344.jpg",
+  "px": [
+   558,
+   992
+  ],
+  "world_w": 1.117,
+  "bytes": 78303
+ },
+ {
+  "file": "a23.jpg",
+  "mat": "M_Frm_3",
+  "path": "ROOMS/SKY_LOUNGE/Pic_SKY_LOUNGE_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/3.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 112227
+ },
+ {
+  "file": "a24.jpg",
+  "mat": "M_Frm_4",
+  "path": "OFFSITE/BED_MASTER/ART/Art_4",
+  "slot": 1,
+  "src": "Assets/Framed pictures/4.png",
+  "px": [
+   689,
+   388
+  ],
+  "world_w": 1.378,
+  "bytes": 44650
+ },
+ {
+  "file": "a25.jpg",
+  "mat": "M_Frm_441940613_1040122121058694_1778059801244",
+  "path": "ROOMS/DINING/DineProps/Dine_Art",
+  "slot": 1,
+  "src": "Assets/Framed pictures/441940613_1040122121058694_1778059801244096870_n (1).jpg",
+  "px": [
+   1080,
+   667
+  ],
+  "world_w": 3.223,
+  "bytes": 35856
+ },
+ {
+  "file": "a26.jpg",
+  "mat": "M_Frm_5",
+  "path": "Art_art_3",
+  "slot": 1,
+  "src": "Assets/Framed pictures/5.png",
+  "px": [
+   1564,
+   880
+  ],
+  "world_w": 3.127,
+  "bytes": 200256
+ },
+ {
+  "file": "a27.jpg",
+  "mat": "M_Frm_7",
+  "path": "OFFSITE/BED_GUEST/ART/Art_7",
+  "slot": 1,
+  "src": "Assets/Framed pictures/7.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 69650
+ },
+ {
+  "file": "a28.jpg",
+  "mat": "M_Frm_8",
+  "path": "OFFSITE/BED_MASTER/ART/Art_8",
+  "slot": 1,
+  "src": "Assets/Framed pictures/8.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 118053
+ },
+ {
+  "file": "a29.jpg",
+  "mat": "M_Frm_9khfmklotum91",
+  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_02",
+  "slot": 1,
+  "src": "Assets/Framed pictures/9khfmklotum91.png",
+  "px": [
+   817,
+   541
+  ],
+  "world_w": 1.729,
+  "bytes": 63244
+ },
+ {
+  "file": "a30.jpg",
+  "mat": "M_Frm_About_To_Get_Pozzed",
+  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_2",
+  "slot": 1,
+  "src": "Assets/Framed pictures/About To Get Pozzed.png",
+  "px": [
+   512,
+   917
+  ],
+  "world_w": 0.585,
+  "bytes": 88476
+ },
+ {
+  "file": "a31.jpg",
+  "mat": "M_Frm_GT9_8StbQAAVNIZ",
+  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_02",
+  "slot": 1,
+  "src": "Assets/Framed pictures/GT9-8StbQAAVNIZ.png",
+  "px": [
+   595,
+   632
+  ],
+  "world_w": 1.19,
+  "bytes": 65206
+ },
+ {
+  "file": "a32.jpg",
+  "mat": "M_Frm_Generated_Image_March_23_2026_11_41PM_Co",
+  "path": "ROOMS/GAMES/Pic_GAMES_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/Generated Image March 23, 2026 - 11_41PM - Copy.jpg",
+  "px": [
+   836,
+   355
+  ],
+  "world_w": 1.672,
+  "bytes": 82135
+ },
+ {
+  "file": "a33.jpg",
+  "mat": "M_Frm_HHNcBU6bUAA3yD2",
+  "path": "ROOMS/HALLWAY/Hall_1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/HHNcBU6bUAA3yD2.jpg",
+  "px": [
+   516,
+   644
+  ],
+  "world_w": 1.032,
+  "bytes": 54022
+ },
+ {
+  "file": "a34.jpg",
+  "mat": "M_Frm_I_will_never_vr_sleep_again",
+  "path": "LOUNGE/Pic_LOUNGE_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/I will never vr sleep again.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 104099
+ },
+ {
+  "file": "a35.jpg",
+  "mat": "M_Frm_Social_Conversation_Diagram",
+  "path": "Art_art_p1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/Social Conversation Diagram.png",
+  "px": [
+   512,
+   663
+  ],
+  "world_w": 0.757,
+  "bytes": 27294
+ },
+ {
+  "file": "a36.jpg",
+  "mat": "M_Frm_VRChat_2024_05_19_16_10_44_462_3840x2160",
+  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2024_05_19_16_10_44_4",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2024-05-19_16-10-44.462_3840x2160.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 95286
+ },
+ {
+  "file": "a37.jpg",
+  "mat": "M_Frm_VRChat_2025_01_02_21_37_13_675_1920x1080",
+  "path": "ROOMS/WET_BAR/Pic_WET_BAR_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-01-02_21-37-13.675_1920x1080.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 106897
+ },
+ {
+  "file": "a38.jpg",
+  "mat": "M_Frm_VRChat_2025_02_09_10_13_12_099_1920x1080",
+  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_02_09_10_13_12_0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-02-09_10-13-12.099_1920x1080.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 114823
+ },
+ {
+  "file": "a39.jpg",
+  "mat": "M_Frm_VRChat_2025_04_18_21_29_25_113_3840x2160_wrld_56452fb0_754d_4601_9b32_9fffa2570419",
+  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_04_18_21_29_25_1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-04-18_21-29-25.113_3840x2160_wrld_56452fb0-754d-4601-9b32-9fffa2570419.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 101740
+ },
+ {
+  "file": "a40.jpg",
+  "mat": "M_Frm_VRChat_2025_06_21_22_05_48_551_2160x3840",
+  "path": "ROOMS/CHILL/Pic_CHILL_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-06-21_22-05-48.551_2160x3840_wrld_7c521e97-b98a-48b3-b8fc-7c0008cf9caf.jpg",
+  "px": [
+   558,
+   992
+  ],
+  "world_w": 1.117,
+  "bytes": 69479
+ },
+ {
+  "file": "a41.jpg",
+  "mat": "M_Frm_VRChat_2025_07_09_21_21_48_745_3840x2160",
+  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_07_09_21_21_48_7",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-07-09_21-21-48.745_3840x2160.png",
+  "px": [
+   745,
+   419
+  ],
+  "world_w": 1.49,
+  "bytes": 41842
+ },
+ {
+  "file": "a42.jpg",
+  "mat": "M_Frm_VRChat_2025_07_21_22_32_06_418_1920x1080_wrld_5f99c988_8ace_4aeb_b252_eebf30a3de80",
+  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_07_21_22_32_06_4",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-07-21_22-32-06.418_1920x1080_wrld_5f99c988-8ace-4aeb-b252-eebf30a3de80.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 91773
+ },
+ {
+  "file": "a43.jpg",
+  "mat": "M_Frm_VRChat_2025_07_25_15_35_32_456_1080x1920",
+  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_07_25_15_35_32_4",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-07-25_15-35-32.456_1080x1920.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 109087
+ },
+ {
+  "file": "a44.jpg",
+  "mat": "M_Frm_VRChat_2025_09_13_02_19_25_693_3840x2160_wrld_0777ec10_c871_4e2f_91cc_1c43287eb16c",
+  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_09_13_02_19_25_6",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-09-13_02-19-25.693_3840x2160_wrld_0777ec10-c871-4e2f-91cc-1c43287eb16c.png",
+  "px": [
+   689,
+   388
+  ],
+  "world_w": 1.378,
+  "bytes": 31569
+ },
+ {
+  "file": "a45.jpg",
+  "mat": "M_Frm_VRChat_2025_09_27_22_52_46_932_3840x2160_wrld_45801e39_517e_4cca_b915_ae720825d88c",
+  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_09_27_22_52_46_9",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-09-27_22-52-46.932_3840x2160_wrld_45801e39-517e-4cca-b915-ae720825d88c.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 94608
+ },
+ {
+  "file": "a46.jpg",
+  "mat": "M_Frm_VRChat_2025_10_17_23_41_32_101_3840x2160",
+  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_10_17_23_41_32_1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-10-17_23-41-32.101_3840x2160.jpg",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 129818
+ },
+ {
+  "file": "a47.jpg",
+  "mat": "M_Frm_VRChat_2025_10_25_23_35_15_591_3840x2160",
+  "path": "ROOMS/WET_BAR/Pic_WET_BAR_01",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-10-25_23-35-15.591_3840x2160_wrld_20314290-3524-4164-b879-ed03afbe0117.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 108281
+ },
+ {
+  "file": "a48.jpg",
+  "mat": "M_Frm_VRChat_2025_11_01_00_20_25_101_3840x2160_wrld_b477c764_43a2_43f0_8355_d2871af3881d",
+  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_11_01_00_20_25_1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2025-11-01_00-20-25.101_3840x2160_wrld_b477c764-43a2-43f0-8355-d2871af3881d.png",
+  "px": [
+   978,
+   550
+  ],
+  "world_w": 1.956,
+  "bytes": 80938
+ },
+ {
+  "file": "a49.jpg",
+  "mat": "M_Frm_VRChat_2026_08_31_03_54_16_061_1920x1080",
+  "path": "ROOMS/WET_BAR/Pic_WET_BAR_02",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRChat_2026-08-31_03-54-16.061_1920x1080_wrld_d91bf5f6-9d20-49ec-a79e-df44610fe37c.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 124978
+ },
+ {
+  "file": "a50.jpg",
+  "mat": "M_Frm_VRHeels",
+  "path": "ROOMS/SPA/Pic_SPA_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VRHeels.png",
+  "px": [
+   400,
+   487
+  ],
+  "world_w": 1.011,
+  "bytes": 35464
+ },
+ {
+  "file": "a51.jpg",
+  "mat": "M_Frm_VYNsmSaBRmi4NYEyQ9VysQ",
+  "path": "ROOMS/ENTRY/Entry_Pic_S0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/VYNsmSaBRmi4NYEyQ9VysQ.png",
+  "px": [
+   632,
+   632
+  ],
+  "world_w": 1.265,
+  "bytes": 73423
+ },
+ {
+  "file": "a52.jpg",
+  "mat": "M_Frm_diddy",
+  "path": "ROOMS/HALLWAY/Hall_A",
+  "slot": 1,
+  "src": "Assets/Framed pictures/diddy.png",
+  "px": [
+   571,
+   638
+  ],
+  "world_w": 1.142,
+  "bytes": 95305
+ },
+ {
+  "file": "a53.jpg",
+  "mat": "M_Frm_file_Copy_2",
+  "path": "ROOMS/ENTRY/Entry_Pic_W0",
+  "slot": 1,
+  "src": "Assets/Framed pictures/file - Copy (2).png",
+  "px": [
+   534,
+   295
+  ],
+  "world_w": 1.505,
+  "bytes": 40949
+ },
+ {
+  "file": "a54.jpg",
+  "mat": "M_Frm_hello",
+  "path": "ROOMS/ENTRY/Entry_Pic_W1",
+  "slot": 1,
+  "src": "Assets/Framed pictures/hello.png",
+  "px": [
+   632,
+   449
+  ],
+  "world_w": 1.265,
+  "bytes": 48255
+ },
+ {
+  "file": "a55.jpg",
+  "mat": "M_Frm_image_1",
+  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_01",
+  "slot": 1,
+  "src": "Assets/Framed pictures/image_1.jpg",
+  "px": [
+   716,
+   396
+  ],
+  "world_w": 1.431,
+  "bytes": 38097
+ },
+ {
+  "file": "a56.jpg",
+  "mat": "M_Frm_image_Copy",
+  "path": "ROOMS/ENTRY/Entry_Dressing/Entry_ArtS/EntryS",
+  "slot": 1,
+  "src": "Assets/Framed pictures/image - Copy.png",
+  "px": [
+   916,
+   639
+  ],
+  "world_w": 1.831,
+  "bytes": 113132
+ },
+ {
+  "file": "a57.jpg",
+  "mat": "M_Frm_last_chance_saloon_matte",
+  "path": "LOUNGE/Pic_LOUNGE_02",
+  "slot": 1,
+  "src": "Assets/Framed pictures/last chance saloon matte.png",
+  "px": [
+   1018,
+   573
+  ],
+  "world_w": 2.035,
+  "bytes": 70635
+ },
+ {
+  "file": "a58.jpg",
+  "mat": "M_Frm_mewoemwemowmoe",
+  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_03",
+  "slot": 1,
+  "src": "Assets/Framed pictures/mewoemwemowmoe.png",
+  "px": [
+   632,
+   431
+  ],
+  "world_w": 1.265,
+  "bytes": 40115
+ },
+ {
+  "file": "a59.jpg",
+  "mat": "M_Frm_ppwisdom",
+  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_01",
+  "slot": 1,
+  "src": "Assets/Framed pictures/ppwisdom.png",
+  "px": [
+   498,
+   476
+  ],
+  "world_w": 1.323,
+  "bytes": 33783
+ },
+ {
+  "file": "a60.jpg",
+  "mat": "M_Frm_there_is_no_such_thing_as_bad_publicity",
+  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_00",
+  "slot": 1,
+  "src": "Assets/Framed pictures/there is no such thing as bad publicity.jpg",
+  "px": [
+   932,
+   354
+  ],
+  "world_w": 1.865,
+  "bytes": 32015
+ },
+ {
+  "file": "a61.jpg",
+  "mat": "M_Frm_wawa_pee",
+  "path": "ROOMS/GAMES/Pic_GAMES_01",
+  "slot": 1,
+  "src": "Assets/Framed pictures/wawa pee.png",
+  "px": [
+   902,
+   503
+  ],
+  "world_w": 1.803,
+  "bytes": 131182
+ },
+ {
+  "file": "a62.jpg",
+  "mat": "M_Frm_yes_I_erpd_with_sippbox",
+  "path": "ROOMS/GAMES/Pic_GAMES_02",
+  "slot": 1,
+  "src": "Assets/Framed pictures/yes I erpd with sippbox.jpg",
+  "px": [
+   926,
+   521
+  ],
+  "world_w": 1.853,
+  "bytes": 31565
+ }
+]
