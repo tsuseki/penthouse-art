@@ -1,821 +1,2517 @@
 [
  {
-  "file": "a00.jpg",
-  "mat": "M_Frm_07_07_26_201004",
-  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_1",
-  "slot": 1,
+  "index": 0,
   "src": "Assets/Framed pictures/07-07-26-201004.png",
   "px": [
+   2432,
+   1664
+  ],
+  "raw_px": [
+   2432,
+   1664
+  ],
+  "exif": 1,
+  "sha256": "87c4b776133eeb634f095d2d754b3a01ed08851bc62f3e78ad388ef0a484f45c",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "8224ba5d2fec13232bc139ad727a28e6b3af1a66815d7811ce7d760d59d557a6",
+  "old_compare_mae": 1.065,
+  "old_host_px": [
    512,
    350
   ],
-  "world_w": 0.712,
+  "reuse_host": true,
+  "id": 2164046,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_1",
+  "mat": "M_Frm_07_07_26_201004",
+  "slot": 1,
+  "aliases": [],
+  "file": "a00.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a00.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a00.png",
+  "world_w": 0.67962,
+  "world_h": 0.465,
+  "host_px": [
+   512,
+   350
+  ],
   "bytes": 61530
  },
  {
-  "file": "a01.jpg",
-  "mat": "M_Frm_07_07_26_201009",
-  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_00",
-  "slot": 1,
+  "index": 1,
   "src": "Assets/Framed pictures/07-07-26-201009.png",
   "px": [
+   2048,
+   2048
+  ],
+  "raw_px": [
+   2048,
+   2048
+  ],
+  "exif": 1,
+  "sha256": "bb13d6a188b513b74e07f88ca5c2e44a2727c2d4945db0a576876a56ece59fb3",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ba4f8f28aaf4ab0ff93dd59d1a74c66bd89acbf99039c21c3e891cf2b3813112",
+  "old_compare_mae": 0.527,
+  "old_host_px": [
    632,
    632
   ],
-  "world_w": 1.265,
+  "reuse_host": true,
+  "id": 2118904,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_00",
+  "mat": "M_Frm_07_07_26_201009",
+  "slot": 1,
+  "aliases": [],
+  "file": "a01.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a01.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a01.png",
+  "world_w": 1.20715,
+  "world_h": 1.20715,
+  "host_px": [
+   632,
+   632
+  ],
   "bytes": 84485
  },
  {
-  "file": "a02.jpg",
-  "mat": "M_Frm_07_07_26_201028",
-  "path": "ROOMS/HALLWAY/Hall_2",
-  "slot": 1,
+  "index": 2,
   "src": "Assets/Framed pictures/07-07-26-201028.png",
   "px": [
+   1664,
+   2432
+  ],
+  "raw_px": [
+   1664,
+   2432
+  ],
+  "exif": 1,
+  "sha256": "97c866621182a56d5a5bfa9b1aee14ebed29ab19cbc501e299673727ebf9d989",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "02a680532ecb3dfa0edb0b1ce5e09663ba9685493f58aae2f05780d1072a27ea",
+  "old_compare_mae": 0.591,
+  "old_host_px": [
    512,
    748
   ],
-  "world_w": 0.816,
+  "reuse_host": true,
+  "id": 2159520,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Hall_2",
+  "mat": "M_Frm_07_07_26_201028",
+  "slot": 1,
+  "aliases": [],
+  "file": "a02.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a02.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a02.png",
+  "world_w": 0.77884,
+  "world_h": 1.1383,
+  "host_px": [
+   512,
+   748
+  ],
   "bytes": 94571
  },
  {
-  "file": "a03.jpg",
-  "mat": "M_Frm_07_07_26_201048",
-  "path": "ROOMS/BATHROOM/Pic_BATHROOM_00",
-  "slot": 1,
+  "index": 3,
   "src": "Assets/Framed pictures/07-07-26-201048.png",
   "px": [
+   2048,
+   2048
+  ],
+  "raw_px": [
+   2048,
+   2048
+  ],
+  "exif": 1,
+  "sha256": "9600de9d98ef5888dd8a4195647ef8903fbdc84b580ad6fad4f212ad439e9506",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "c38a99db410f0349680ad4db83b7ae8c8b6be5728828e2d7acf873430eff0c4a",
+  "old_compare_mae": 0.596,
+  "old_host_px": [
    632,
    632
   ],
-  "world_w": 1.265,
+  "reuse_host": true,
+  "id": 2112314,
+  "path": "WORLD/ROOMS/BATHROOM/Pic_BATHROOM_00",
+  "mat": "M_Frm_07_07_26_201048",
+  "slot": 1,
+  "aliases": [],
+  "file": "a03.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a03.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a03.png",
+  "world_w": 1.20715,
+  "world_h": 1.20715,
+  "host_px": [
+   632,
+   632
+  ],
   "bytes": 99288
  },
  {
-  "file": "a04.jpg",
-  "mat": "M_Frm_1",
-  "path": "ROOMS/HALLWAY/Hall_3",
-  "slot": 1,
+  "index": 4,
   "src": "Assets/Framed pictures/1.png",
   "px": [
+   3662,
+   2060
+  ],
+  "raw_px": [
+   3662,
+   2060
+  ],
+  "exif": 1,
+  "sha256": "c621a24bfef74efbcada02b643077bfcb64814d6aadb186f0d2d05423fa93b81",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "30fd9c08de166d75ca7f8e41756af0c8cd6d853c0320560e9864b5cfb2da9bea",
+  "old_compare_mae": 0.422,
+  "old_host_px": [
    953,
    536
   ],
-  "world_w": 1.906,
+  "reuse_host": true,
+  "id": 2164640,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Hall_3",
+  "mat": "M_Frm_1",
+  "slot": 1,
+  "aliases": [],
+  "file": "a04.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a04.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a04.png",
+  "world_w": 1.81974,
+  "world_h": 1.02366,
+  "host_px": [
+   953,
+   536
+  ],
   "bytes": 90443
  },
  {
-  "file": "a05.jpg",
-  "mat": "M_Frm_10",
-  "path": "ROOMS/ENTRY/Entry_Pic_N1",
-  "slot": 1,
+  "index": 5,
   "src": "Assets/Framed pictures/10.jpg",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "de696ee4d01179973cc7652dea3c03995543c028d2e4a025a917d273bc72cafa",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "13d10646d73a1b2eeaa08ca413a1bd7604a08f1bbe711fcee6d2eb36d6ae3b61",
+  "old_compare_mae": 0.356,
+  "old_host_px": [
    1124,
    632
   ],
-  "world_w": 2.248,
+  "reuse_host": true,
+  "id": 2146682,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Pic_N1",
+  "mat": "M_Frm_10",
+  "slot": 1,
+  "aliases": [],
+  "file": "a05.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a05.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a05.png",
+  "world_w": 1.62269,
+  "world_h": 0.91276,
+  "host_px": [
+   1124,
+   632
+  ],
   "bytes": 113513
  },
  {
-  "file": "a06.jpg",
-  "mat": "M_Frm_11",
-  "path": "OFFSITE/BED_MASTER/ART/Art_11",
-  "slot": 1,
+  "index": 6,
   "src": "Assets/Framed pictures/11.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "56c562b10e1ac3e3fc264961bc3cce9aa1996eb87fac9226dc9f1032c93f303b",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "6f1de5d9b8727a1ddf4b0c699c62126974f2b2116c061febc8b8081e8f915a2f",
+  "old_compare_mae": 0.334,
+  "old_host_px": [
    1210,
    681
   ],
-  "world_w": 2.421,
+  "reuse_host": true,
+  "id": 2111014,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_11",
+  "mat": "M_Frm_11",
+  "slot": 1,
+  "aliases": [],
+  "file": "a06.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a06.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a06.png",
+  "world_w": 2.3112,
+  "world_h": 1.30005,
+  "host_px": [
+   1210,
+   681
+  ],
   "bytes": 134643
  },
  {
-  "file": "a07.jpg",
-  "mat": "M_Frm_12",
-  "path": "OFFSITE/BED_GUEST/ART/Art_12",
-  "slot": 1,
+  "index": 7,
   "src": "Assets/Framed pictures/12.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "90d91d640f93e8063159608aacd5bd112967794d1d3d82eb12d3b1da9aa49cb8",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "372de871463b027736d01be7c582c66bf7f3daa2bf6278679839a59d71f1dbc3",
+  "old_compare_mae": 0.358,
+  "old_host_px": [
    1210,
    681
   ],
-  "world_w": 2.421,
+  "reuse_host": true,
+  "id": 2117140,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_12",
+  "mat": "M_Frm_12",
+  "slot": 1,
+  "aliases": [],
+  "file": "a07.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a07.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a07.png",
+  "world_w": 2.3112,
+  "world_h": 1.30005,
+  "host_px": [
+   1210,
+   681
+  ],
   "bytes": 82181
  },
  {
-  "file": "a08.jpg",
-  "mat": "M_Frm_13",
-  "path": "ROOMS/ENTRY/Entry_Pic_N0",
-  "slot": 1,
+  "index": 8,
   "src": "Assets/Framed pictures/13.png",
   "px": [
-   1124,
-   632
+   2160,
+   3840
   ],
-  "world_w": 2.248,
-  "bytes": 142458
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "6defbbd1d24d369cd9a7fe976d962917cf7961cea8dac9bcd00a032c564c8008",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ee3ee8e2401fbee8574e1abb48d537c26edf1d490cd3877c3f72d98f44bb13d5",
+  "old_compare_mae": 0.561,
+  "old_host_px": [
+   632,
+   1124
+  ],
+  "reuse_host": false,
+  "id": 2161514,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Pic_N0",
+  "mat": "M_Frm_13",
+  "slot": 1,
+  "aliases": [],
+  "file": "a08_ee3ee8e240.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a08_ee3ee8e240.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a08.png",
+  "world_w": 1.17797,
+  "world_h": 2.09417,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 613782,
+  "remote_orientation_changed": true
  },
  {
-  "file": "a09.jpg",
-  "mat": "M_Frm_14",
-  "path": "OFFSITE/BED_MASTER/ART/Art_14",
-  "slot": 1,
+  "index": 9,
   "src": "Assets/Framed pictures/14.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "e07b9cdcd431bca2a5cc6aef6eb25c5bb92c6098e58a2489830da66357967d73",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "20120b8448ba25cc8f41b50e39bae2ecce600b3fca7675fc9ed97ff6720539c6",
+  "old_compare_mae": 0.445,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
+  "reuse_host": true,
+  "id": 2104398,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_14",
+  "mat": "M_Frm_14",
+  "slot": 1,
+  "aliases": [],
+  "file": "a09.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a09.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a09.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
   "bytes": 93325
  },
  {
-  "file": "a10.jpg",
-  "mat": "M_Frm_15",
-  "path": "ROOMS/CHILL/Chill_Art/Chill_Canvas_E/Chill_E",
-  "slot": 1,
+  "index": 10,
   "src": "Assets/Framed pictures/15.png",
   "px": [
+   1920,
+   1080
+  ],
+  "raw_px": [
+   1920,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "f987097cf5bf2c9144a79b35f7e726d5ad0f8a55f4805880fbcc46fa11467235",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "4ef36c517925a2e1b6c72030d621c142746eb9390caa8e701e36a1736552507a",
+  "old_compare_mae": 0.584,
+  "old_host_px": [
    793,
    446
   ],
-  "world_w": 1.586,
+  "reuse_host": true,
+  "id": 2139574,
+  "path": "WORLD/ROOMS/CHILL/Chill_Art/Chill_Canvas_E/Chill_E",
+  "mat": "M_Frm_15",
+  "slot": 1,
+  "aliases": [],
+  "file": "a10.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a10.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a10.png",
+  "world_w": 1.51351,
+  "world_h": 0.85135,
+  "host_px": [
+   793,
+   446
+  ],
   "bytes": 52480
  },
  {
-  "file": "a11.jpg",
-  "mat": "M_Frm_16",
-  "path": "OFFSITE/BED_GUEST/ART/Art_16",
-  "slot": 1,
+  "index": 11,
   "src": "Assets/Framed pictures/16.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "bec8714d721c9e1aa09f984451d5c2409c67e601338e3e2cc1619c7af1bd882b",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "295e7be87c7a174f8e9e74c3ea8f8d6e0485ab122cd17b12902dd478631e0e43",
+  "old_compare_mae": 0.504,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
+  "reuse_host": true,
+  "id": 2133932,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_16",
+  "mat": "M_Frm_16",
+  "slot": 1,
+  "aliases": [],
+  "file": "a11.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a11.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a11.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
   "bytes": 128246
  },
  {
-  "file": "a12.jpg",
-  "mat": "M_Frm_17",
-  "path": "ROOMS/CHILL/Chill_Art/Chill_Canvas_W/Chill_W",
-  "slot": 1,
+  "index": 12,
   "src": "Assets/Framed pictures/17.png",
   "px": [
+   2160,
+   3840
+  ],
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "a837c0731f0537eec0cd5128588c0f3884185951fc3c5903166fea1cd2f550cd",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "65dcfea86236eac91bb84f10140683e580d9d928dbf56909e6c3bb40cf4060b7",
+  "old_compare_mae": 0.383,
+  "old_host_px": [
    563,
    1001
   ],
-  "world_w": 1.126,
+  "reuse_host": true,
+  "id": 2137156,
+  "path": "WORLD/ROOMS/CHILL/Chill_Art/Chill_Canvas_W/Chill_W",
+  "mat": "M_Frm_17",
+  "slot": 1,
+  "aliases": [],
+  "file": "a12.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a12.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a12.png",
+  "world_w": 1.0746,
+  "world_h": 1.9104,
+  "host_px": [
+   563,
+   1001
+  ],
   "bytes": 82698
  },
  {
-  "file": "a13.jpg",
-  "mat": "M_Frm_1755428593177820",
-  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_0",
-  "slot": 1,
+  "index": 13,
   "src": "Assets/Framed pictures/1755428593177820.jpg",
   "px": [
+   960,
+   1280
+  ],
+  "raw_px": [
+   960,
+   1280
+  ],
+  "exif": 1,
+  "sha256": "9ad3321a0f0eee32adf7622c811b433030048eff277f7439ca27fb9e3367faec",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "816bb88fa589e520b343e8d682e12142a6f6e8c54e84d574f7bb72412455342d",
+  "old_compare_mae": 0.381,
+  "old_host_px": [
    512,
    683
   ],
-  "world_w": 0.712,
+  "reuse_host": true,
+  "id": 2103414,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_0",
+  "mat": "M_Frm_1755428593177820",
+  "slot": 1,
+  "aliases": [],
+  "file": "a13.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a13.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a13.png",
+  "world_w": 0.67966,
+  "world_h": 0.90621,
+  "host_px": [
+   512,
+   683
+  ],
   "bytes": 81673
  },
  {
-  "file": "a14.jpg",
-  "mat": "M_Frm_1758593527288317",
-  "path": "ROOMS/HALLWAY/Hall_0",
-  "slot": 1,
+  "index": 14,
   "src": "Assets/Framed pictures/1758593527288317.jpg",
   "px": [
+   2560,
+   1440
+  ],
+  "raw_px": [
+   2560,
+   1440
+  ],
+  "exif": 1,
+  "sha256": "c5ef10b7d79d0c894e78fa8a197ad8598b102a04bd70a6d215f8487af7468a42",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "bc314c2f6892a363ea73be54a7a78491fe6c4140947bba082ec30547b1347a89",
+  "old_compare_mae": 0.366,
+  "old_host_px": [
    954,
    537
   ],
-  "world_w": 1.907,
+  "reuse_host": true,
+  "id": 2159496,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Hall_0",
+  "mat": "M_Frm_1758593527288317",
+  "slot": 1,
+  "aliases": [],
+  "file": "a14.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a14.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a14.png",
+  "world_w": 1.81985,
+  "world_h": 1.02366,
+  "host_px": [
+   954,
+   537
+  ],
   "bytes": 67378
  },
  {
-  "file": "a15.jpg",
-  "mat": "M_Frm_1771119352683",
-  "path": "Art_art_p2",
-  "slot": 1,
+  "index": 15,
   "src": "Assets/Framed pictures/1771119352683.png",
   "px": [
+   768,
+   1376
+  ],
+  "raw_px": [
+   768,
+   1376
+  ],
+  "exif": 1,
+  "sha256": "6f2c7f47dffdb4e5a182700cf22bfab7d55bb5db2883317f854a4007a66c1deb",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "9b23d08b1e95b9d5e8cdb14eecbce1bfe174a477a7d3518aaec5e0079a25a338",
+  "old_compare_mae": 0.421,
+  "old_host_px": [
    512,
    917
   ],
-  "world_w": 0.76,
+  "reuse_host": true,
+  "id": 2133566,
+  "path": "Art_art_p2",
+  "mat": "M_Frm_1771119352683",
+  "slot": 1,
+  "aliases": [],
+  "file": "a15.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a15.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a15.png",
+  "world_w": 0.72527,
+  "world_h": 1.29945,
+  "host_px": [
+   512,
+   917
+  ],
   "bytes": 98559
  },
  {
-  "file": "a16.jpg",
-  "mat": "M_Frm_17_asmr",
-  "path": "OFFSITE/BED_MASTER/ART/Art_17_asmr",
-  "slot": 1,
-  "src": "Assets/Framed pictures/17_asmr.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 79530
- },
- {
-  "file": "a17.jpg",
-  "mat": "M_Frm_18",
-  "path": "OFFSITE/BED_GUEST/ART/Art_18",
-  "slot": 1,
+  "index": 16,
   "src": "Assets/Framed pictures/18.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "3f4b7462f4662d2f3c772ea7cb30c6d7d5d6e39b9b5a424e679221ff799f3d02",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ca7cacf9c36fcca035e2d933bd8cb1e47f7864f8a7edfe3baf7d516cd67ace9c",
+  "old_compare_mae": 0.47,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
+  "reuse_host": true,
+  "id": 2128700,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_18",
+  "mat": "M_Frm_18",
+  "slot": 1,
+  "aliases": [
+   "Assets/Framed pictures/VRChat_2025-05-18_00-19-59.667_3840x2160_wrld_5ae6f67e-20f2-49fa-a6ab-d8fb5e35e592.png"
+  ],
+  "file": "a17.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a17.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a17.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
   "bytes": 149534
  },
  {
-  "file": "a18.jpg",
-  "mat": "M_Frm_19",
-  "path": "ROOMS/CHILL/Pic_CHILL_00b",
-  "slot": 1,
+  "index": 17,
   "src": "Assets/Framed pictures/19.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "cc8a2ab33dff1fede3aada24049ff14acd9c5367f5301dde3275a286ef6252ea",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ebdaed42cfbd89a220d24afc24deafec24af5e295f57793021b4f48a578046ef",
+  "old_compare_mae": 0.415,
+  "old_host_px": [
    1018,
    573
   ],
-  "world_w": 2.035,
+  "reuse_host": true,
+  "id": 2144468,
+  "path": "WORLD/ROOMS/CHILL/Pic_CHILL_00b",
+  "mat": "M_Frm_19",
+  "slot": 1,
+  "aliases": [],
+  "file": "a18.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a18.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a18.png",
+  "world_w": 1.94238,
+  "world_h": 1.09259,
+  "host_px": [
+   1018,
+   573
+  ],
   "bytes": 137634
  },
  {
-  "file": "a19.jpg",
-  "mat": "M_Frm_2",
-  "path": "OFFSITE/BED_MASTER/ART/Art_2",
-  "slot": 1,
+  "index": 18,
   "src": "Assets/Framed pictures/2.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "7d9d1ad5d6072bb8750a2d543fe2fe6dab99d1950ced5230c5c5d2f321ec286b",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "7d4f5d4d55d823d320ec05972e5c6aa159583df35111b9271c4a2ecc266bcbf3",
+  "old_compare_mae": 0.472,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
+  "reuse_host": true,
+  "id": 2126070,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_2",
+  "mat": "M_Frm_2",
+  "slot": 1,
+  "aliases": [],
+  "file": "a19.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a19.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a19.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
   "bytes": 92241
  },
  {
-  "file": "a20.jpg",
-  "mat": "M_Frm_20",
-  "path": "OFFSITE/BED_GUEST/ART/Art_20",
-  "slot": 1,
+  "index": 19,
   "src": "Assets/Framed pictures/20.png",
   "px": [
-   978,
-   550
+   2160,
+   3840
   ],
-  "world_w": 1.956,
-  "bytes": 53972
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "4e7275d7272b28ec537a31a12daa41b1ac95bb87e3522007c7166dce351403e8",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "935a4587d3cf2276093cb75a2f840db47b16748c839374b737ddb7047f1db135",
+  "old_compare_mae": 0.546,
+  "old_host_px": [
+   550,
+   978
+  ],
+  "reuse_host": false,
+  "id": 2134344,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_20",
+  "mat": "M_Frm_20",
+  "slot": 1,
+  "aliases": [],
+  "file": "a19_935a4587d3.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a19_935a4587d3.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a20.png",
+  "world_w": 1.02464,
+  "world_h": 1.82159,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 305162,
+  "remote_orientation_changed": true
  },
  {
-  "file": "a21.jpg",
-  "mat": "M_Frm_20241126_004810",
-  "path": "ROOMS/HALLWAY/Hall_B",
-  "slot": 1,
+  "index": 20,
   "src": "Assets/Framed pictures/20241126_004810.jpg",
   "px": [
+   2078,
+   1500
+  ],
+  "raw_px": [
+   2078,
+   1500
+  ],
+  "exif": 1,
+  "sha256": "c569e48e2d0a2b9b40a4ea30b2f8012ad296a56cc56e61df82ce947896ff0f65",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "8e97942d14852f49165d85ddbfd760d9bdad05032fea390dc8f0dcfdcfacefd0",
+  "old_compare_mae": 0.715,
+  "old_host_px": [
    668,
    482
   ],
-  "world_w": 1.336,
+  "reuse_host": true,
+  "id": 2129044,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Hall_B",
+  "mat": "M_Frm_20241126_004810",
+  "slot": 1,
+  "aliases": [],
+  "file": "a21.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a21.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a21.png",
+  "world_w": 1.27524,
+  "world_h": 0.92053,
+  "host_px": [
+   668,
+   482
+  ],
   "bytes": 91749
  },
  {
-  "file": "a22.jpg",
-  "mat": "M_Frm_20260105_010344",
-  "path": "LOUNGE/Pic_LOUNGE_01",
-  "slot": 1,
+  "index": 21,
   "src": "Assets/Framed pictures/20260105_010344.jpg",
   "px": [
+   1440,
+   2560
+  ],
+  "raw_px": [
+   1440,
+   2560
+  ],
+  "exif": 1,
+  "sha256": "584fabe11df6a5104d1395407f03d10ee95eaaed7c0435883d11ba880b025a79",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "0c569cfe8c35fd4df5706cea4d903406512b3575c83e767fb2ca526d77a5232a",
+  "old_compare_mae": 0.311,
+  "old_host_px": [
    558,
    992
   ],
-  "world_w": 1.117,
+  "reuse_host": true,
+  "id": 2143816,
+  "path": "LOUNGE/Pic_LOUNGE_01",
+  "mat": "M_Frm_20260105_010344",
+  "slot": 1,
+  "aliases": [],
+  "file": "a22.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a22.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a22.png",
+  "world_w": 1.06622,
+  "world_h": 1.8955,
+  "host_px": [
+   558,
+   992
+  ],
   "bytes": 78303
  },
  {
-  "file": "a23.jpg",
-  "mat": "M_Frm_3",
-  "path": "ROOMS/SKY_LOUNGE/Pic_SKY_LOUNGE_00",
-  "slot": 1,
+  "index": 22,
   "src": "Assets/Framed pictures/3.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "ef9dea3eba9817bda06892e85a8305fb697c885109df5025b1c5752841eaaff1",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "57bfa168461467a27fc753fbb071d0341d1509fce1f9c11e6962c7838db895a9",
+  "old_compare_mae": 0.439,
+  "old_host_px": [
    1018,
    573
   ],
-  "world_w": 2.035,
+  "reuse_host": true,
+  "id": 2154828,
+  "path": "WORLD/ROOMS/SKY_LOUNGE/Pic_SKY_LOUNGE_00",
+  "mat": "M_Frm_3",
+  "slot": 1,
+  "aliases": [],
+  "file": "a23.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a23.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a23.png",
+  "world_w": 1.47883,
+  "world_h": 0.83184,
+  "host_px": [
+   1018,
+   573
+  ],
   "bytes": 112227
  },
  {
-  "file": "a24.jpg",
-  "mat": "M_Frm_4",
-  "path": "OFFSITE/BED_MASTER/ART/Art_4",
-  "slot": 1,
+  "index": 23,
   "src": "Assets/Framed pictures/4.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "2df6664986258c04d2311011818128323d111049e21421238207390127f70446",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "d47d12b43040abba92b7d0e83cb84db83bc31ebee485b5699ffb278223c67d56",
+  "old_compare_mae": 0.542,
+  "old_host_px": [
    689,
    388
   ],
-  "world_w": 1.378,
+  "reuse_host": true,
+  "id": 2104696,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_4",
+  "mat": "M_Frm_4",
+  "slot": 1,
+  "aliases": [],
+  "file": "a24.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a24.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a24.png",
+  "world_w": 1.31561,
+  "world_h": 0.74003,
+  "host_px": [
+   689,
+   388
+  ],
   "bytes": 44650
  },
  {
-  "file": "a25.jpg",
-  "mat": "M_Frm_441940613_1040122121058694_1778059801244",
-  "path": "ROOMS/DINING/DineProps/Dine_Art",
-  "slot": 1,
+  "index": 24,
   "src": "Assets/Framed pictures/441940613_1040122121058694_1778059801244096870_n (1).jpg",
   "px": [
    1080,
    667
   ],
-  "world_w": 3.223,
+  "raw_px": [
+   1080,
+   667
+  ],
+  "exif": 1,
+  "sha256": "53754dd495887ecaf33d3c5eb4e3086ee9d8c93c816fa728c16c43233de70bac",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "7aab7bb3a1f235918437ffed2cf487cb176a9ddf1a7cc27e2e05d5a26493a913",
+  "old_compare_mae": 0.031,
+  "old_host_px": [
+   1080,
+   667
+  ],
+  "reuse_host": true,
+  "id": 2129964,
+  "path": "WORLD/ROOMS/DINING/DineProps/Dine_Art",
+  "mat": "M_Frm_441940613_1040122121058694_1778059801244",
+  "slot": 1,
+  "aliases": [],
+  "file": "a25.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a25.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a25.png",
+  "world_w": 3.07643,
+  "world_h": 1.89998,
+  "host_px": [
+   1080,
+   667
+  ],
   "bytes": 35856
  },
  {
-  "file": "a26.jpg",
-  "mat": "M_Frm_5",
-  "path": "Art_art_3",
-  "slot": 1,
+  "index": 25,
   "src": "Assets/Framed pictures/5.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "1d2db2efff3f70f61bb5026a540a5c8c84105e136daec12fc91d1771921656e9",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "99addf76aedec28831de94fd1e26b6bb37d7078c06650c021f1ca3f71da301d5",
+  "old_compare_mae": 0.421,
+  "old_host_px": [
    1564,
    880
   ],
-  "world_w": 3.127,
+  "reuse_host": true,
+  "id": 2100058,
+  "path": "Art_art_3",
+  "mat": "M_Frm_5",
+  "slot": 1,
+  "aliases": [],
+  "file": "a26.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a26.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a26.png",
+  "world_w": 2.98479,
+  "world_h": 1.67895,
+  "host_px": [
+   1564,
+   880
+  ],
   "bytes": 200256
  },
  {
-  "file": "a27.jpg",
-  "mat": "M_Frm_7",
-  "path": "OFFSITE/BED_GUEST/ART/Art_7",
-  "slot": 1,
+  "index": 26,
   "src": "Assets/Framed pictures/7.png",
   "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "952e1b13266103a05111e8e71f3dba54ba92f77ed110799c6b412b5d135c11da",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "23b0647df98333d1cec62e707f71fd8e964ca5637289b0786f560a94c33eb73b",
+  "old_compare_mae": 0.443,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
+  "reuse_host": true,
+  "id": 2136776,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_7",
+  "mat": "M_Frm_7",
+  "slot": 1,
+  "aliases": [],
+  "file": "a27.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a27.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a27.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
   "bytes": 69650
  },
  {
-  "file": "a28.jpg",
-  "mat": "M_Frm_8",
-  "path": "OFFSITE/BED_MASTER/ART/Art_8",
-  "slot": 1,
+  "index": 27,
   "src": "Assets/Framed pictures/8.png",
   "px": [
+   2160,
+   3840
+  ],
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "27153c460f13ee8a40c4c23a1e912909bfd790a54387e3fc8968ad1faf3b2eaf",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "703f8756944a66b5c9fdcd5166a5bfcf9312e85b869951975a1a871cfc0e253c",
+  "old_compare_mae": 65.283,
+  "old_host_px": [
    978,
    550
   ],
-  "world_w": 1.956,
-  "bytes": 118053
+  "reuse_host": false,
+  "id": 2159510,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_8",
+  "mat": "M_Frm_8",
+  "slot": 1,
+  "aliases": [],
+  "file": "a27_703f875694.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a27_703f875694.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a27_703f875694.png",
+  "world_w": 0.8645,
+  "world_h": 1.53689,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 705724
  },
  {
-  "file": "a29.jpg",
-  "mat": "M_Frm_9khfmklotum91",
-  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_02",
-  "slot": 1,
+  "index": 28,
   "src": "Assets/Framed pictures/9khfmklotum91.png",
   "px": [
    817,
    541
   ],
-  "world_w": 1.729,
+  "raw_px": [
+   817,
+   541
+  ],
+  "exif": 1,
+  "sha256": "ee2c1af2d223efee6908dcc8eee765857b98aae106f379ecfcc3a5cf2bd25928",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "076fbfc82abd9a7e3bd0d4d07e6252c41d758ffe5e8fcf512e1e206aa4b55431",
+  "old_compare_mae": 0.442,
+  "old_host_px": [
+   817,
+   541
+  ],
+  "reuse_host": true,
+  "id": 2135132,
+  "path": "WORLD/ROOMS/DANCE_DJ/Pic_DANCE_DJ_02",
+  "mat": "M_Frm_9khfmklotum91",
+  "slot": 1,
+  "aliases": [],
+  "file": "a29.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a29.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a29.png",
+  "world_w": 1.64999,
+  "world_h": 1.09259,
+  "host_px": [
+   817,
+   541
+  ],
   "bytes": 63244
  },
  {
-  "file": "a30.jpg",
-  "mat": "M_Frm_About_To_Get_Pozzed",
-  "path": "ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_2",
-  "slot": 1,
+  "index": 29,
   "src": "Assets/Framed pictures/About To Get Pozzed.png",
   "px": [
+   768,
+   1376
+  ],
+  "raw_px": [
+   768,
+   1376
+  ],
+  "exif": 1,
+  "sha256": "eaf8196898f96a6b64565d2b3d2578a088265a1c1a1bf57fd9ba396c9101808a",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "eb1f766bd4d51bcafd56a7437a5bb28ede9642478bc91a648f8c6a3f083daec6",
+  "old_compare_mae": 0.439,
+  "old_host_px": [
    512,
    917
   ],
-  "world_w": 0.585,
+  "reuse_host": true,
+  "id": 2152224,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/CinemaBackWall/Cin_2",
+  "mat": "M_Frm_About_To_Get_Pozzed",
+  "slot": 1,
+  "aliases": [],
+  "file": "a30.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a30.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a30.png",
+  "world_w": 0.55839,
+  "world_h": 1.00044,
+  "host_px": [
+   512,
+   917
+  ],
   "bytes": 88476
  },
  {
-  "file": "a31.jpg",
-  "mat": "M_Frm_GT9_8StbQAAVNIZ",
-  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_02",
-  "slot": 1,
-  "src": "Assets/Framed pictures/GT9-8StbQAAVNIZ.png",
-  "px": [
-   595,
-   632
-  ],
-  "world_w": 1.19,
-  "bytes": 65206
- },
- {
-  "file": "a32.jpg",
-  "mat": "M_Frm_Generated_Image_March_23_2026_11_41PM_Co",
-  "path": "ROOMS/GAMES/Pic_GAMES_00",
-  "slot": 1,
-  "src": "Assets/Framed pictures/Generated Image March 23, 2026 - 11_41PM - Copy.jpg",
-  "px": [
-   836,
-   355
-  ],
-  "world_w": 1.672,
-  "bytes": 82135
- },
- {
-  "file": "a33.jpg",
-  "mat": "M_Frm_HHNcBU6bUAA3yD2",
-  "path": "ROOMS/HALLWAY/Hall_1",
-  "slot": 1,
-  "src": "Assets/Framed pictures/HHNcBU6bUAA3yD2.jpg",
-  "px": [
-   516,
-   644
-  ],
-  "world_w": 1.032,
-  "bytes": 54022
- },
- {
-  "file": "a34.jpg",
-  "mat": "M_Frm_I_will_never_vr_sleep_again",
-  "path": "LOUNGE/Pic_LOUNGE_00",
-  "slot": 1,
-  "src": "Assets/Framed pictures/I will never vr sleep again.png",
-  "px": [
-   1018,
-   573
-  ],
-  "world_w": 2.035,
-  "bytes": 104099
- },
- {
-  "file": "a35.jpg",
-  "mat": "M_Frm_Social_Conversation_Diagram",
-  "path": "Art_art_p1",
-  "slot": 1,
-  "src": "Assets/Framed pictures/Social Conversation Diagram.png",
-  "px": [
-   512,
-   663
-  ],
-  "world_w": 0.757,
-  "bytes": 27294
- },
- {
-  "file": "a36.jpg",
-  "mat": "M_Frm_VRChat_2024_05_19_16_10_44_462_3840x2160",
-  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2024_05_19_16_10_44_4",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2024-05-19_16-10-44.462_3840x2160.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 95286
- },
- {
-  "file": "a37.jpg",
-  "mat": "M_Frm_VRChat_2025_01_02_21_37_13_675_1920x1080",
-  "path": "ROOMS/WET_BAR/Pic_WET_BAR_00",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-01-02_21-37-13.675_1920x1080.png",
-  "px": [
-   1018,
-   573
-  ],
-  "world_w": 2.035,
-  "bytes": 106897
- },
- {
-  "file": "a38.jpg",
-  "mat": "M_Frm_VRChat_2025_02_09_10_13_12_099_1920x1080",
-  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_02_09_10_13_12_0",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-02-09_10-13-12.099_1920x1080.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 114823
- },
- {
-  "file": "a39.jpg",
-  "mat": "M_Frm_VRChat_2025_04_18_21_29_25_113_3840x2160_wrld_56452fb0_754d_4601_9b32_9fffa2570419",
-  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_04_18_21_29_25_1",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-04-18_21-29-25.113_3840x2160_wrld_56452fb0-754d-4601-9b32-9fffa2570419.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 101740
- },
- {
-  "file": "a40.jpg",
-  "mat": "M_Frm_VRChat_2025_06_21_22_05_48_551_2160x3840",
-  "path": "ROOMS/CHILL/Pic_CHILL_00",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-06-21_22-05-48.551_2160x3840_wrld_7c521e97-b98a-48b3-b8fc-7c0008cf9caf.jpg",
-  "px": [
-   558,
-   992
-  ],
-  "world_w": 1.117,
-  "bytes": 69479
- },
- {
-  "file": "a41.jpg",
-  "mat": "M_Frm_VRChat_2025_07_09_21_21_48_745_3840x2160",
-  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_07_09_21_21_48_7",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-07-09_21-21-48.745_3840x2160.png",
-  "px": [
-   745,
-   419
-  ],
-  "world_w": 1.49,
-  "bytes": 41842
- },
- {
-  "file": "a42.jpg",
-  "mat": "M_Frm_VRChat_2025_07_21_22_32_06_418_1920x1080_wrld_5f99c988_8ace_4aeb_b252_eebf30a3de80",
-  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_07_21_22_32_06_4",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-07-21_22-32-06.418_1920x1080_wrld_5f99c988-8ace-4aeb-b252-eebf30a3de80.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 91773
- },
- {
-  "file": "a43.jpg",
-  "mat": "M_Frm_VRChat_2025_07_25_15_35_32_456_1080x1920",
-  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_07_25_15_35_32_4",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-07-25_15-35-32.456_1080x1920.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 109087
- },
- {
-  "file": "a44.jpg",
-  "mat": "M_Frm_VRChat_2025_09_13_02_19_25_693_3840x2160_wrld_0777ec10_c871_4e2f_91cc_1c43287eb16c",
-  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_09_13_02_19_25_6",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-09-13_02-19-25.693_3840x2160_wrld_0777ec10-c871-4e2f-91cc-1c43287eb16c.png",
-  "px": [
-   689,
-   388
-  ],
-  "world_w": 1.378,
-  "bytes": 31569
- },
- {
-  "file": "a45.jpg",
-  "mat": "M_Frm_VRChat_2025_09_27_22_52_46_932_3840x2160_wrld_45801e39_517e_4cca_b915_ae720825d88c",
-  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_09_27_22_52_46_9",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-09-27_22-52-46.932_3840x2160_wrld_45801e39-517e-4cca-b915-ae720825d88c.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 94608
- },
- {
-  "file": "a46.jpg",
-  "mat": "M_Frm_VRChat_2025_10_17_23_41_32_101_3840x2160",
-  "path": "OFFSITE/BED_GUEST/ART/Art_VRChat_2025_10_17_23_41_32_1",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-10-17_23-41-32.101_3840x2160.jpg",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 129818
- },
- {
-  "file": "a47.jpg",
-  "mat": "M_Frm_VRChat_2025_10_25_23_35_15_591_3840x2160",
-  "path": "ROOMS/WET_BAR/Pic_WET_BAR_01",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-10-25_23-35-15.591_3840x2160_wrld_20314290-3524-4164-b879-ed03afbe0117.png",
-  "px": [
-   1018,
-   573
-  ],
-  "world_w": 2.035,
-  "bytes": 108281
- },
- {
-  "file": "a48.jpg",
-  "mat": "M_Frm_VRChat_2025_11_01_00_20_25_101_3840x2160_wrld_b477c764_43a2_43f0_8355_d2871af3881d",
-  "path": "OFFSITE/BED_MASTER/ART/Art_VRChat_2025_11_01_00_20_25_1",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2025-11-01_00-20-25.101_3840x2160_wrld_b477c764-43a2-43f0-8355-d2871af3881d.png",
-  "px": [
-   978,
-   550
-  ],
-  "world_w": 1.956,
-  "bytes": 80938
- },
- {
-  "file": "a49.jpg",
-  "mat": "M_Frm_VRChat_2026_08_31_03_54_16_061_1920x1080",
-  "path": "ROOMS/WET_BAR/Pic_WET_BAR_02",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRChat_2026-08-31_03-54-16.061_1920x1080_wrld_d91bf5f6-9d20-49ec-a79e-df44610fe37c.png",
-  "px": [
-   1018,
-   573
-  ],
-  "world_w": 2.035,
-  "bytes": 124978
- },
- {
-  "file": "a50.jpg",
-  "mat": "M_Frm_VRHeels",
-  "path": "ROOMS/SPA/Pic_SPA_00",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VRHeels.png",
-  "px": [
-   400,
-   487
-  ],
-  "world_w": 1.011,
-  "bytes": 35464
- },
- {
-  "file": "a51.jpg",
-  "mat": "M_Frm_VYNsmSaBRmi4NYEyQ9VysQ",
-  "path": "ROOMS/ENTRY/Entry_Pic_S0",
-  "slot": 1,
-  "src": "Assets/Framed pictures/VYNsmSaBRmi4NYEyQ9VysQ.png",
-  "px": [
-   632,
-   632
-  ],
-  "world_w": 1.265,
-  "bytes": 73423
- },
- {
-  "file": "a52.jpg",
-  "mat": "M_Frm_diddy",
-  "path": "ROOMS/HALLWAY/Hall_A",
-  "slot": 1,
+  "index": 30,
   "src": "Assets/Framed pictures/diddy.png",
   "px": [
+   990,
+   1107
+  ],
+  "raw_px": [
+   990,
+   1107
+  ],
+  "exif": 1,
+  "sha256": "9207ef1fbb782fa5734455fef14f1038409600944bf3b0353292ba4927365d9a",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "9733f48620f544d013eb0ed5eab5d8e312e9285bb799189857420a5aa9ce4e01",
+  "old_compare_mae": 0.539,
+  "old_host_px": [
    571,
    638
   ],
-  "world_w": 1.142,
+  "reuse_host": true,
+  "id": 2114222,
+  "path": "WORLD/ROOMS/SKY_LOUNGE/Pic_SKY_LOUNGE_02",
+  "mat": "M_Frm_diddy",
+  "slot": 1,
+  "aliases": [],
+  "file": "a52.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a52.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a52.png",
+  "world_w": 1.12455,
+  "world_h": 1.25745,
+  "host_px": [
+   571,
+   638
+  ],
   "bytes": 95305
  },
  {
-  "file": "a53.jpg",
-  "mat": "M_Frm_file_Copy_2",
-  "path": "ROOMS/ENTRY/Entry_Pic_W0",
-  "slot": 1,
+  "index": 31,
   "src": "Assets/Framed pictures/file - Copy (2).png",
   "px": [
    534,
    295
   ],
-  "world_w": 1.505,
+  "raw_px": [
+   534,
+   295
+  ],
+  "exif": 1,
+  "sha256": "4d423cc5974439405761082364c2c5d760ab3ed7d1d38164393f1577ade0bfae",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "24ba03d023e20b71acb74b25fffe7ca48a6e295dc1248e8bcbc9f3246b9fcbfb",
+  "old_compare_mae": 0.892,
+  "old_host_px": [
+   534,
+   295
+  ],
+  "reuse_host": true,
+  "id": 2137524,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Pic_W0",
+  "mat": "M_Frm_file_Copy_2",
+  "slot": 1,
+  "aliases": [],
+  "file": "a53.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a53.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a53.png",
+  "world_w": 1.43653,
+  "world_h": 0.79359,
+  "host_px": [
+   534,
+   295
+  ],
   "bytes": 40949
  },
  {
-  "file": "a54.jpg",
-  "mat": "M_Frm_hello",
-  "path": "ROOMS/ENTRY/Entry_Pic_W1",
+  "index": 32,
+  "src": "Assets/Framed pictures/Generated Image March 23, 2026 - 11_41PM - Copy.jpg",
+  "px": [
+   1584,
+   672
+  ],
+  "raw_px": [
+   1584,
+   672
+  ],
+  "exif": 1,
+  "sha256": "6f8c0ce335e7c172786a020a370d560505dee6426606ac22d04d40e3c1304aa2",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "0f7e9f5ae8f7f105e1132d9bf9632f526789efd2193958af640abb69db3c4bb3",
+  "old_compare_mae": 0.579,
+  "old_host_px": [
+   836,
+   355
+  ],
+  "reuse_host": true,
+  "id": 2132256,
+  "path": "WORLD/ROOMS/GAMES/Pic_GAMES_00",
+  "mat": "M_Frm_Generated_Image_March_23_2026_11_41PM_Co",
   "slot": 1,
+  "aliases": [],
+  "file": "a32.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a32.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a32.png",
+  "world_w": 1.59617,
+  "world_h": 0.67716,
+  "host_px": [
+   836,
+   355
+  ],
+  "bytes": 82135
+ },
+ {
+  "index": 33,
+  "src": "Assets/Framed pictures/GT9-8StbQAAVNIZ.png",
+  "px": [
+   1129,
+   1200
+  ],
+  "raw_px": [
+   1129,
+   1200
+  ],
+  "exif": 1,
+  "sha256": "47dd04ec6a208ee4dbfed72926d1d1999cd5d03cfb9dfd3fc7971c161a909f8b",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "af622cad622024c8e2f5f47c0a4a818918142eba209b28c8f904ba24ecb40a87",
+  "old_compare_mae": 0.423,
+  "old_host_px": [
+   595,
+   632
+  ],
+  "reuse_host": true,
+  "id": 2159550,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_02",
+  "mat": "M_Frm_GT9_8StbQAAVNIZ",
+  "slot": 1,
+  "aliases": [],
+  "file": "a31.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a31.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a31.png",
+  "world_w": 1.13573,
+  "world_h": 1.20715,
+  "host_px": [
+   595,
+   632
+  ],
+  "bytes": 65206
+ },
+ {
+  "index": 34,
   "src": "Assets/Framed pictures/hello.png",
   "px": [
+   1024,
+   728
+  ],
+  "raw_px": [
+   1024,
+   728
+  ],
+  "exif": 1,
+  "sha256": "ac89f50b03a58d15a673367448e497921fcc5a3849820b716722badd70d7cc47",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "eaac2a2314db295607d89f0c7c2fd65037d72b769ee8638a370525e0dbbdab4e",
+  "old_compare_mae": 0.504,
+  "old_host_px": [
    632,
    449
   ],
-  "world_w": 1.265,
+  "reuse_host": true,
+  "id": 2142422,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Pic_W1",
+  "mat": "M_Frm_hello",
+  "slot": 1,
+  "aliases": [],
+  "file": "a54.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a54.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a54.png",
+  "world_w": 1.20747,
+  "world_h": 0.85844,
+  "host_px": [
+   632,
+   449
+  ],
   "bytes": 48255
  },
  {
-  "file": "a55.jpg",
-  "mat": "M_Frm_image_1",
-  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_01",
-  "slot": 1,
-  "src": "Assets/Framed pictures/image_1.jpg",
+  "index": 35,
+  "src": "Assets/Framed pictures/HHNcBU6bUAA3yD2.jpg",
   "px": [
-   716,
-   396
+   960,
+   1199
   ],
-  "world_w": 1.431,
-  "bytes": 38097
+  "raw_px": [
+   960,
+   1199
+  ],
+  "exif": 1,
+  "sha256": "c42298c0cb582bec0c05e4e430e6cdd357a710599b448bc4b98abbf5efbc4156",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "7a60b9479fde6c5bc32bedcdf7a23cad69339eb8243254c51d107e6bfeef7c87",
+  "old_compare_mae": 0.386,
+  "old_host_px": [
+   516,
+   644
+  ],
+  "reuse_host": true,
+  "id": 2109664,
+  "path": "LOUNGE/STAIRHALL/Pic_STAIRHALL_01",
+  "mat": "M_Frm_HHNcBU6bUAA3yD2",
+  "slot": 1,
+  "aliases": [],
+  "file": "a33.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a33.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a33.png",
+  "world_w": 1.0068,
+  "world_h": 1.25745,
+  "host_px": [
+   516,
+   644
+  ],
+  "bytes": 54022
  },
  {
-  "file": "a56.jpg",
-  "mat": "M_Frm_image_Copy",
-  "path": "ROOMS/ENTRY/Entry_Dressing/Entry_ArtS/EntryS",
-  "slot": 1,
-  "src": "Assets/Framed pictures/image - Copy.png",
+  "index": 36,
+  "src": "Assets/Framed pictures/I will never vr sleep again.png",
   "px": [
-   916,
-   639
+   3840,
+   2160
   ],
-  "world_w": 1.831,
-  "bytes": 113132
- },
- {
-  "file": "a57.jpg",
-  "mat": "M_Frm_last_chance_saloon_matte",
-  "path": "LOUNGE/Pic_LOUNGE_02",
-  "slot": 1,
-  "src": "Assets/Framed pictures/last chance saloon matte.png",
-  "px": [
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "2d8b4867225de73da6d8f009d23e78f472c3b651e93e01c2bf6a946830fed1ca",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "6582da887e1818b0da7080b418948940de97329846c7a4a18a92d6b4bcae5676",
+  "old_compare_mae": 0.601,
+  "old_host_px": [
    1018,
    573
   ],
-  "world_w": 2.035,
+  "reuse_host": true,
+  "id": 2105254,
+  "path": "LOUNGE/Pic_LOUNGE_00",
+  "mat": "M_Frm_I_will_never_vr_sleep_again",
+  "slot": 1,
+  "aliases": [],
+  "file": "a34.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a34.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a34.png",
+  "world_w": 1.94238,
+  "world_h": 1.09259,
+  "host_px": [
+   1018,
+   573
+  ],
+  "bytes": 104099
+ },
+ {
+  "index": 37,
+  "src": "Assets/Framed pictures/image - Copy.png",
+  "px": [
+   1548,
+   1080
+  ],
+  "raw_px": [
+   1548,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "95fc298baaf9ef8d66db41839e29f8040796d85410f116169a6356d4292f1c5c",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "383cc0240f83363b031841fbae7cc807108d5b68965a4e0f0896e58cdd17fc47",
+  "old_compare_mae": 0.405,
+  "old_host_px": [
+   916,
+   639
+  ],
+  "reuse_host": true,
+  "id": 2094648,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Dressing/Entry_ArtS/EntryS",
+  "mat": "M_Frm_image_Copy",
+  "slot": 1,
+  "aliases": [],
+  "file": "a56.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a56.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a56.png",
+  "world_w": 1.74761,
+  "world_h": 1.21927,
+  "host_px": [
+   916,
+   639
+  ],
+  "bytes": 113132
+ },
+ {
+  "index": 38,
+  "src": "Assets/Framed pictures/image_1.jpg",
+  "px": [
+   752,
+   1360
+  ],
+  "raw_px": [
+   752,
+   1360
+  ],
+  "exif": 1,
+  "sha256": "5c99a497449f1ce54a211a0e14e253d7e3fc265b29f2fecc58bca4da8c231230",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "e0b4f73c12e194141e7eb097e6cff58182d482672af45de37d26d51c6b2c5f23",
+  "old_compare_mae": 0.567,
+  "old_host_px": [
+   396,
+   716
+  ],
+  "reuse_host": false,
+  "id": 2127674,
+  "path": "WORLD/ARTWORK/P16",
+  "mat": "M_Frm_image_1",
+  "slot": 1,
+  "aliases": [],
+  "file": "a38_e0b4f73c12.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a38_e0b4f73c12.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a55.png",
+  "world_w": 0.7185,
+  "world_h": 1.2995,
+  "host_px": [
+   752,
+   1360
+  ],
+  "bytes": 160262,
+  "remote_orientation_changed": true
+ },
+ {
+  "index": 39,
+  "src": "Assets/Framed pictures/last chance saloon matte.png",
+  "px": [
+   2048,
+   1152
+  ],
+  "raw_px": [
+   2048,
+   1152
+  ],
+  "exif": 1,
+  "sha256": "cda42727e9295150ab0637237d56e5b339e8c3a2d50db886b8bd1c989fe93c4a",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ad597619ffb4280bc32632ae61a4379be32ce03f7f419e65e15de112d5223aaa",
+  "old_compare_mae": 0.375,
+  "old_host_px": [
+   1018,
+   573
+  ],
+  "reuse_host": true,
+  "id": 2095004,
+  "path": "LOUNGE/Pic_LOUNGE_02",
+  "mat": "M_Frm_last_chance_saloon_matte",
+  "slot": 1,
+  "aliases": [],
+  "file": "a57.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a57.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a57.png",
+  "world_w": 1.94238,
+  "world_h": 1.09259,
+  "host_px": [
+   1018,
+   573
+  ],
   "bytes": 70635
  },
  {
-  "file": "a58.jpg",
-  "mat": "M_Frm_mewoemwemowmoe",
-  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_03",
-  "slot": 1,
+  "index": 40,
   "src": "Assets/Framed pictures/mewoemwemowmoe.png",
   "px": [
+   800,
+   545
+  ],
+  "raw_px": [
+   800,
+   545
+  ],
+  "exif": 1,
+  "sha256": "310af50fbdfcb0f0083f29118c181837cff8ff36f868bb9643a9d5572469ae97",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "2c39ba52c45292859db604ccd9ec3b35b1e659b400a3285630d5ec087f7bdb4f",
+  "old_compare_mae": 0.371,
+  "old_host_px": [
    632,
    431
   ],
-  "world_w": 1.265,
+  "reuse_host": true,
+  "id": 2158942,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_03",
+  "mat": "M_Frm_mewoemwemowmoe",
+  "slot": 1,
+  "aliases": [],
+  "file": "a58.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a58.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a58.png",
+  "world_w": 1.20746,
+  "world_h": 0.82258,
+  "host_px": [
+   632,
+   431
+  ],
   "bytes": 40115
  },
  {
-  "file": "a59.jpg",
-  "mat": "M_Frm_ppwisdom",
-  "path": "ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_01",
-  "slot": 1,
+  "index": 41,
   "src": "Assets/Framed pictures/ppwisdom.png",
   "px": [
    498,
    476
   ],
-  "world_w": 1.323,
+  "raw_px": [
+   498,
+   476
+  ],
+  "exif": 1,
+  "sha256": "93d9085705f4a52bce6f6ff84fa7435d429bf7bcaef1b5739853b2911bfb9adf",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "66638c5eb7b3e10283291c2a3ed2525049d2b90b62add57471d765a2c2870cd4",
+  "old_compare_mae": 0.499,
+  "old_host_px": [
+   498,
+   476
+  ],
+  "reuse_host": true,
+  "id": 2103886,
+  "path": "WORLD/ROOMS/MEZZ_CINEMA/Pic_MEZZ_CINEMA_01",
+  "mat": "M_Frm_ppwisdom",
+  "slot": 1,
+  "aliases": [],
+  "file": "a59.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a59.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a59.png",
+  "world_w": 1.26295,
+  "world_h": 1.20715,
+  "host_px": [
+   498,
+   476
+  ],
   "bytes": 33783
  },
  {
-  "file": "a60.jpg",
-  "mat": "M_Frm_there_is_no_such_thing_as_bad_publicity",
-  "path": "ROOMS/DANCE_DJ/Pic_DANCE_DJ_00",
+  "index": 42,
+  "src": "Assets/Framed pictures/q7fp9jw.png",
+  "px": [
+   2160,
+   3840
+  ],
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "bc9089ede248b3aab987e829e351d5c7eeff7fc92ead8a9b14bd57010a1b831c",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "b7e4df4cc72f73c55c630e80e1f6848a499f8ffb045922aabdb944da52db4547",
+  "reuse_host": false,
+  "id": 2140272,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_q7fp9jw",
+  "mat": "M_Frm_q7fp9jw",
   "slot": 1,
+  "aliases": [],
+  "file": "a42_b7e4df4cc7.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a42_b7e4df4cc7.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a42_b7e4df4cc7.png",
+  "world_w": 1.02464,
+  "world_h": 1.82159,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 520522
+ },
+ {
+  "index": 43,
+  "src": "Assets/Framed pictures/Social Conversation Diagram.png",
+  "px": [
+   1870,
+   2420
+  ],
+  "raw_px": [
+   1870,
+   2420
+  ],
+  "exif": 1,
+  "sha256": "08e1eefa6bc6876d1f75f141fc2eee16520dee9accf9ef6026360d0f6d54ff1f",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "7cf3e73316273f250e91d1706cbc08427f166b76c91f721a65cb19028ab8e604",
+  "old_compare_mae": 0.4,
+  "old_host_px": [
+   512,
+   663
+  ],
+  "reuse_host": true,
+  "id": 2162312,
+  "path": "Art_art_p1",
+  "mat": "M_Frm_Social_Conversation_Diagram",
+  "slot": 1,
+  "aliases": [],
+  "file": "a35.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a35.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a35.png",
+  "world_w": 0.72268,
+  "world_h": 0.93523,
+  "host_px": [
+   512,
+   663
+  ],
+  "bytes": 27294
+ },
+ {
+  "index": 44,
   "src": "Assets/Framed pictures/there is no such thing as bad publicity.jpg",
   "px": [
+   957,
+   364
+  ],
+  "raw_px": [
+   957,
+   364
+  ],
+  "exif": 1,
+  "sha256": "8145a9e1745ca81e1afa90a9f0e413faaf84dea1b6e34951248046f2ef52e07c",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "0534943812633fbee2b903d6321a4daf0a0d7bded208621e3bc9f3302add34bb",
+  "old_compare_mae": 0.149,
+  "old_host_px": [
    932,
    354
   ],
-  "world_w": 1.865,
+  "reuse_host": true,
+  "id": 2141112,
+  "path": "WORLD/ROOMS/DANCE_DJ/Pic_DANCE_DJ_00",
+  "mat": "M_Frm_there_is_no_such_thing_as_bad_publicity",
+  "slot": 1,
+  "aliases": [],
+  "file": "a60.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a60.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a60.png",
+  "world_w": 1.78018,
+  "world_h": 0.6771,
+  "host_px": [
+   932,
+   354
+  ],
   "bytes": 32015
  },
  {
-  "file": "a61.jpg",
-  "mat": "M_Frm_wawa_pee",
-  "path": "ROOMS/GAMES/Pic_GAMES_01",
+  "index": 45,
+  "src": "Assets/Framed pictures/VRChat_2024-05-19_16-10-44.462_3840x2160.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "ac72edb80c14d1009b1ae996ddf71693bb3a56d4fc4e827423e807b8e5e51269",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "f58cee00cdd14a1751f748e319a0910090aea7fcd40b8f6a504ecfcdb532ec26",
+  "old_compare_mae": 0.559,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2129216,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2024_05_19_16_10_44_4",
+  "mat": "M_Frm_VRChat_2024_05_19_16_10_44_462_3840x2160",
   "slot": 1,
+  "aliases": [],
+  "file": "a36.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a36.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a36.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 95286
+ },
+ {
+  "index": 46,
+  "src": "Assets/Framed pictures/VRChat_2025-01-02_21-37-13.675_1920x1080.png",
+  "px": [
+   1920,
+   1080
+  ],
+  "raw_px": [
+   1920,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "8b732cb66c236bb7c54ac96f1559f4f3b2a1cff810ac286b81f16147381cf6d6",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "4545d7acc28e3c43430b764a207d30b86ceead4ad5912120e189b70d2f6f932c",
+  "old_compare_mae": 0.392,
+  "old_host_px": [
+   1018,
+   573
+  ],
+  "reuse_host": true,
+  "id": 2130792,
+  "path": "WORLD/ROOMS/WET_BAR/Pic_WET_BAR_00",
+  "mat": "M_Frm_VRChat_2025_01_02_21_37_13_675_1920x1080",
+  "slot": 1,
+  "aliases": [],
+  "file": "a37.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a37.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a37.png",
+  "world_w": 1.47883,
+  "world_h": 0.83184,
+  "host_px": [
+   1018,
+   573
+  ],
+  "bytes": 106897
+ },
+ {
+  "index": 47,
+  "src": "Assets/Framed pictures/VRChat_2025-02-09_10-13-12.099_1920x1080.png",
+  "px": [
+   1920,
+   1080
+  ],
+  "raw_px": [
+   1920,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "cd4eb45c160af979840cbde51d267e3e652b3a638e167b8d6020d9802782ea79",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "91e441ed6d7b181ada6fb28c88578cea9fd36a7f3cdcb9ddee0759a83ad0a167",
+  "old_compare_mae": 0.463,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2110502,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_02_09_10_13_12_0",
+  "mat": "M_Frm_VRChat_2025_02_09_10_13_12_099_1920x1080",
+  "slot": 1,
+  "aliases": [],
+  "file": "a38.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a38.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a38.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 114823
+ },
+ {
+  "index": 48,
+  "src": "Assets/Framed pictures/VRChat_2025-04-18_21-29-25.113_3840x2160_wrld_56452fb0-754d-4601-9b32-9fffa2570419.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "b07783c2d25d363475b5f6aaf9a8e078015803d65fed183ee9e7e7f5793e7fe7",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "c0ec1a38c09e452325aa0ef11ce02877c6e71252a2f328ca602ba3ad26c339fc",
+  "old_compare_mae": 0.48,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2116726,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_04_18_21_29_25_1",
+  "mat": "M_Frm_VRChat_2025_04_18_21_29_25_113_3840x2160_wrld_56452fb0_754d_4601_9b32_9fffa2570419",
+  "slot": 1,
+  "aliases": [],
+  "file": "a39.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a39.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a39.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 101740
+ },
+ {
+  "index": 50,
+  "src": "Assets/Framed pictures/VRChat_2025-06-21_22-05-48.551_2160x3840_wrld_7c521e97-b98a-48b3-b8fc-7c0008cf9caf.jpg",
+  "px": [
+   713,
+   1268
+  ],
+  "raw_px": [
+   713,
+   1268
+  ],
+  "exif": 8,
+  "sha256": "d07c6f8e86fb72099f6b361f422e223e499da9c9375311be039f5cc178e57a15",
+  "orientation": "raw pixels; stale EXIF8 ignored after visual inspection",
+  "pixelhash": "d1a63ee2b5bd2cedf6c616e4c7375b9d097b7826c9c4651e4a6af0787aa52a4f",
+  "old_compare_mae": 0.319,
+  "old_host_px": [
+   558,
+   992
+  ],
+  "reuse_host": true,
+  "id": 2142244,
+  "path": "WORLD/ROOMS/CHILL/Pic_CHILL_00",
+  "mat": "M_Frm_VRChat_2025_06_21_22_05_48_551_2160x3840",
+  "slot": 1,
+  "aliases": [],
+  "file": "a40.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a40.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a40.png",
+  "world_w": 1.06584,
+  "world_h": 1.8955,
+  "host_px": [
+   558,
+   992
+  ],
+  "bytes": 69479
+ },
+ {
+  "index": 51,
+  "src": "Assets/Framed pictures/VRChat_2025-07-09_21-21-48.745_3840x2160.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "398f3be82b9ce8d3bf0326faf807003a697e211bb00f43421f75acd0a7ea1d56",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "00b2ebdaeeb6a29a9b493c8780b6bcae8b70ea834d4d81c74add491bbbfe8c17",
+  "old_compare_mae": 0.508,
+  "old_host_px": [
+   745,
+   419
+  ],
+  "reuse_host": true,
+  "id": 2139776,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_07_09_21_21_48_7",
+  "mat": "M_Frm_VRChat_2025_07_09_21_21_48_745_3840x2160",
+  "slot": 1,
+  "aliases": [],
+  "file": "a41.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a41.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a41.png",
+  "world_w": 1.42228,
+  "world_h": 0.80003,
+  "host_px": [
+   745,
+   419
+  ],
+  "bytes": 41842
+ },
+ {
+  "index": 52,
+  "src": "Assets/Framed pictures/VRChat_2025-07-21_22-32-06.418_1920x1080_wrld_5f99c988-8ace-4aeb-b252-eebf30a3de80.png",
+  "px": [
+   1920,
+   1080
+  ],
+  "raw_px": [
+   1920,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "2b84100bdc7bce9797384345c0eec045d35a6a2ab9256eb397873b4a1804203f",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "b71c741c70064ed1d458f68c94d89289dec7cb1c27847b630bcf54f4e83390da",
+  "old_compare_mae": 0.474,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2153438,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_07_21_22_32_06_4",
+  "mat": "M_Frm_VRChat_2025_07_21_22_32_06_418_1920x1080_wrld_5f99c988_8ace_4aeb_b252_eebf30a3de80",
+  "slot": 1,
+  "aliases": [],
+  "file": "a42.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a42.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a42.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 91773
+ },
+ {
+  "index": 53,
+  "src": "Assets/Framed pictures/VRChat_2025-07-25_15-35-32.456_1080x1920.png",
+  "px": [
+   1080,
+   1920
+  ],
+  "raw_px": [
+   1080,
+   1920
+  ],
+  "exif": 1,
+  "sha256": "ae676ff0614c6a57ff63778614d375e968857bfd2c5aa53af2c98a08ab68475b",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "00f0e399a578674075e720aa84df1853db9df0a5d5fd5fc3522fa6643c7f7be4",
+  "old_compare_mae": 58.421,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": false,
+  "id": 2126628,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_07_25_15_35_32_4",
+  "mat": "M_Frm_VRChat_2025_07_25_15_35_32_456_1080x1920",
+  "slot": 1,
+  "aliases": [],
+  "file": "a53_00f0e399a5.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a53_00f0e399a5.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a53_00f0e399a5.png",
+  "world_w": 0.8645,
+  "world_h": 1.53689,
+  "host_px": [
+   1080,
+   1920
+  ],
+  "bytes": 578876
+ },
+ {
+  "index": 54,
+  "src": "Assets/Framed pictures/VRChat_2025-09-13_02-19-25.693_3840x2160_wrld_0777ec10-c871-4e2f-91cc-1c43287eb16c.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "9f1321afe1007caec5e7f3b8f3a11d44099a5db0938e455e063b0f0f4d5ad3e3",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "d7c59cec3522dbfda92f94142235abe5ba411550c74133c0f6a9c6211b8fc3d8",
+  "old_compare_mae": 0.52,
+  "old_host_px": [
+   689,
+   388
+  ],
+  "reuse_host": true,
+  "id": 2127144,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_09_13_02_19_25_6",
+  "mat": "M_Frm_VRChat_2025_09_13_02_19_25_693_3840x2160_wrld_0777ec10_c871_4e2f_91cc_1c43287eb16c",
+  "slot": 1,
+  "aliases": [],
+  "file": "a44.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a44.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a44.png",
+  "world_w": 1.31561,
+  "world_h": 0.74003,
+  "host_px": [
+   689,
+   388
+  ],
+  "bytes": 31569
+ },
+ {
+  "index": 55,
+  "src": "Assets/Framed pictures/VRChat_2025-09-27_22-52-46.932_3840x2160_wrld_45801e39-517e-4cca-b915-ae720825d88c.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "1d98efcf1ab35cdc1b8f7e63e959290111c8f38231738620970375b666f8603f",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "25391d22054e36d5213101955e8bcfbd043477653452d7bcef6eea0e5c7292eb",
+  "old_compare_mae": 0.466,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2167146,
+  "path": "LOUNGE/STAIRHALL/Pic_STAIRHALL_00",
+  "mat": "M_Frm_VRChat_2025_09_27_22_52_46_932_3840x2160_wrld_45801e39_517e_4cca_b915_ae720825d88c",
+  "slot": 1,
+  "aliases": [],
+  "file": "a45.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a45.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a45.png",
+  "world_w": 1.94731,
+  "world_h": 1.09536,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 94608
+ },
+ {
+  "index": 56,
+  "src": "Assets/Framed pictures/VRChat_2025-10-17_23-41-32.101_3840x2160.jpg",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "a5e576110c7d73378db28620124a224d301ebf781ce67c90ce425dc006ec40f3",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "ed49556d598e33695486fa68dffa15d3ac461dea9c3bc00b90a831fd866b27ef",
+  "old_compare_mae": 0.439,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2110250,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_10_17_23_41_32_1",
+  "mat": "M_Frm_VRChat_2025_10_17_23_41_32_101_3840x2160",
+  "slot": 1,
+  "aliases": [],
+  "file": "a46.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a46.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a46.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 129818
+ },
+ {
+  "index": 57,
+  "src": "Assets/Framed pictures/VRChat_2025-10-25_23-35-15.591_3840x2160_wrld_20314290-3524-4164-b879-ed03afbe0117.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "a7676675ec1c5b30a3556ddc3f51e840055f448e8a5047fca75826fd29c01e77",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "65b426bd58312b3f2ade4d902986758855a52cb7f288c1a567b80857d0ad9fbd",
+  "old_compare_mae": 0.489,
+  "old_host_px": [
+   1018,
+   573
+  ],
+  "reuse_host": true,
+  "id": 2166556,
+  "path": "WORLD/ROOMS/WET_BAR/Pic_WET_BAR_01",
+  "mat": "M_Frm_VRChat_2025_10_25_23_35_15_591_3840x2160",
+  "slot": 1,
+  "aliases": [],
+  "file": "a47.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a47.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a47.png",
+  "world_w": 1.94238,
+  "world_h": 1.09259,
+  "host_px": [
+   1018,
+   573
+  ],
+  "bytes": 108281
+ },
+ {
+  "index": 58,
+  "src": "Assets/Framed pictures/VRChat_2025-11-01_00-20-25.101_3840x2160_wrld_b477c764-43a2-43f0-8355-d2871af3881d.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "765bafd2d5c358d0fc3786dc5c251dd3af0dfe30492e2ba414c4437b35dc7eed",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "982c5d809981d325e218835d44c0d4eb1ad4e82d11aa163e8319898c1c781c9e",
+  "old_compare_mae": 0.419,
+  "old_host_px": [
+   978,
+   550
+  ],
+  "reuse_host": true,
+  "id": 2159760,
+  "path": "WORLD/ROOMS/HALLWAY/Public_VIP_Gallery/Art_VRChat_2025_11_01_00_20_25_1",
+  "mat": "M_Frm_VRChat_2025_11_01_00_20_25_101_3840x2160_wrld_b477c764_43a2_43f0_8355_d2871af3881d",
+  "slot": 1,
+  "aliases": [],
+  "file": "a48.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a48.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a48.png",
+  "world_w": 1.86674,
+  "world_h": 1.05004,
+  "host_px": [
+   978,
+   550
+  ],
+  "bytes": 80938
+ },
+ {
+  "index": 59,
+  "src": "Assets/Framed pictures/VRChat_2026-07-31_23-43-00.147_3840x2160.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "c3b2ca63be636012de3caab7fd849d40132f63620324bc48b6bf8f21bb051edf",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "e27d3398ef1b74153a27e310ce9bb3abfe91210009a52941ac72761aadbedff7",
+  "reuse_host": false,
+  "id": 2108536,
+  "path": "WORLD/ROOMS/SKY_LOUNGE/Pic_SKY_LOUNGE_01",
+  "mat": "M_Frm_VRChat_2026_07_31_23_43_00_147_3840x2160",
+  "slot": 1,
+  "aliases": [],
+  "file": "a59_e27d3398ef.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a59_e27d3398ef.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a59_e27d3398ef.png",
+  "world_w": 1.67872,
+  "world_h": 0.94428,
+  "host_px": [
+   2048,
+   1152
+  ],
+  "bytes": 546187
+ },
+ {
+  "index": 60,
+  "src": "Assets/Framed pictures/VRChat_2026-08-31_03-54-16.061_1920x1080_wrld_d91bf5f6-9d20-49ec-a79e-df44610fe37c.png",
+  "px": [
+   1920,
+   1080
+  ],
+  "raw_px": [
+   1920,
+   1080
+  ],
+  "exif": 1,
+  "sha256": "27cc2b53decc2e434d84d4d935c50d94f85d222af1d8fcadc9c204c8d99a718d",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "bb5caebb56413e345b4839baeba7144eaf7dfc1793576bb914fd71a81f34566e",
+  "old_compare_mae": 0.47,
+  "old_host_px": [
+   1018,
+   573
+  ],
+  "reuse_host": true,
+  "id": 2126092,
+  "path": "WORLD/ROOMS/WET_BAR/Pic_WET_BAR_02",
+  "mat": "M_Frm_VRChat_2026_08_31_03_54_16_061_1920x1080",
+  "slot": 1,
+  "aliases": [],
+  "file": "a49.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a49.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a49.png",
+  "world_w": 1.94238,
+  "world_h": 1.09259,
+  "host_px": [
+   1018,
+   573
+  ],
+  "bytes": 124978
+ },
+ {
+  "index": 61,
+  "src": "Assets/Framed pictures/VRChat_2026-09-04_23-02-58.998_1440x2560.png",
+  "px": [
+   1440,
+   2560
+  ],
+  "raw_px": [
+   1440,
+   2560
+  ],
+  "exif": 1,
+  "sha256": "c736866862b3b9536a38a25f9ad552b32b76bde3391f41cf11cdc19c0cac565c",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "8b0302ce03156e4d5ed2adff4e2eb0ac14c95049b1cbde0a92627aeeb607cc8d",
+  "reuse_host": false,
+  "id": 0,
+  "path": "WORLD/ROOMS/BATHROOM/Pic_BATHROOM_Portrait_20260904",
+  "mat": "M_Frm_VRChat_2026_09_04_23_02_58_998_1440x2560",
+  "slot": 1,
+  "aliases": [],
+  "file": "a61_8b0302ce03.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a61_8b0302ce03.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a61_8b0302ce03.png",
+  "world_w": 0.9,
+  "world_h": 1.6,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 285551
+ },
+ {
+  "index": 62,
+  "src": "Assets/Framed pictures/VRHeels.png",
+  "px": [
+   400,
+   487
+  ],
+  "raw_px": [
+   400,
+   487
+  ],
+  "exif": 1,
+  "sha256": "79aaeacf4a0ac1c5c1077923305a546f42e0f624ba85d93f55b51258fb7ccb08",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "e04de907e006bb94fc4ce71e861eed8f2dfd0dc8c3df8b20b2326bf31303db8b",
+  "old_compare_mae": 0.563,
+  "old_host_px": [
+   400,
+   487
+  ],
+  "reuse_host": true,
+  "id": 2156226,
+  "path": "WORLD/ROOMS/SPA/Pic_SPA_00",
+  "mat": "M_Frm_VRHeels",
+  "slot": 1,
+  "aliases": [],
+  "file": "a50.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a50.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a50.png",
+  "world_w": 0.96473,
+  "world_h": 1.17456,
+  "host_px": [
+   400,
+   487
+  ],
+  "bytes": 35464
+ },
+ {
+  "index": 63,
+  "src": "Assets/Framed pictures/VYNsmSaBRmi4NYEyQ9VysQ.png",
+  "px": [
+   1024,
+   1024
+  ],
+  "raw_px": [
+   1024,
+   1024
+  ],
+  "exif": 1,
+  "sha256": "f067687f2480bbc592a34c443f6cae32f118ed044a10cbf3b22d2438b987f5d0",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "234434f2a6c7df0b57f5048976319ed05ca5f2bbae24d11b8bc36f3a940744b1",
+  "old_compare_mae": 0.502,
+  "old_host_px": [
+   632,
+   632
+  ],
+  "reuse_host": true,
+  "id": 2140128,
+  "path": "WORLD/ROOMS/ENTRY/Entry_Pic_S0",
+  "mat": "M_Frm_VYNsmSaBRmi4NYEyQ9VysQ",
+  "slot": 1,
+  "aliases": [],
+  "file": "a51.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a51.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a51.png",
+  "world_w": 1.20715,
+  "world_h": 1.20715,
+  "host_px": [
+   632,
+   632
+  ],
+  "bytes": 73423
+ },
+ {
+  "index": 64,
   "src": "Assets/Framed pictures/wawa pee.png",
   "px": [
+   1376,
+   768
+  ],
+  "raw_px": [
+   1376,
+   768
+  ],
+  "exif": 1,
+  "sha256": "24dcd7712b27f1a5fc105193a06da967b5b4b5eb48d7896cc9a1987ad138ab27",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "5973da4de6e96906f68f22a8d8baea5e851034806f8cb94db2d5fe67ebf25f1f",
+  "old_compare_mae": 0.458,
+  "old_host_px": [
    902,
    503
   ],
-  "world_w": 1.803,
+  "reuse_host": true,
+  "id": 2164672,
+  "path": "WORLD/ROOMS/GAMES/Pic_GAMES_01",
+  "mat": "M_Frm_wawa_pee",
+  "slot": 1,
+  "aliases": [],
+  "file": "a61.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a61.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a61.png",
+  "world_w": 1.72101,
+  "world_h": 0.96056,
+  "host_px": [
+   902,
+   503
+  ],
   "bytes": 131182
  },
  {
-  "file": "a62.jpg",
-  "mat": "M_Frm_yes_I_erpd_with_sippbox",
-  "path": "ROOMS/GAMES/Pic_GAMES_02",
-  "slot": 1,
+  "index": 65,
   "src": "Assets/Framed pictures/yes I erpd with sippbox.jpg",
   "px": [
+   3839,
+   2159
+  ],
+  "raw_px": [
+   3839,
+   2159
+  ],
+  "exif": 1,
+  "sha256": "57414ef36eedbd4876530a10918641155fe2338bf1ca1b9f1555f9be1e898784",
+  "orientation": "EXIF-transposed",
+  "pixelhash": "3fb4adea6632a4923b5c7497eff2433f119b0007710edad3356f1e1a1a63f7db",
+  "old_compare_mae": 0.208,
+  "old_host_px": [
    926,
    521
   ],
-  "world_w": 1.853,
+  "reuse_host": true,
+  "id": 2142380,
+  "path": "WORLD/ROOMS/GAMES/Pic_GAMES_02",
+  "mat": "M_Frm_yes_I_erpd_with_sippbox",
+  "slot": 1,
+  "aliases": [],
+  "file": "a62.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a62.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a62.png",
+  "world_w": 1.76873,
+  "world_h": 0.99471,
+  "host_px": [
+   926,
+   521
+  ],
   "bytes": 31565
+ },
+ {
+  "index": 66,
+  "src": "Assets/Framed pictures/rvzvs5f.png",
+  "px": [
+   2048,
+   2048
+  ],
+  "raw_px": [
+   2048,
+   2048
+  ],
+  "exif": 1,
+  "sha256": "cf11707f70750ea9c1d9cec286436c2c474f160d40a557de3e91f6fb620e5887",
+  "pixelhash": "735d76a402215d69d3de3c931a8c5b309eb22ce7a1bc4afed8b3862ee48e8097",
+  "reuse_host": false,
+  "path": "WORLD/ARTWORK/P68",
+  "mat": "M_Frm_rvzvs5f",
+  "slot": 1,
+  "aliases": [],
+  "file": "a66_735d76a402.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a66_735d76a402.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh1002/a66.png",
+  "world_w": 1.2,
+  "world_h": 1.2,
+  "host_px": [
+   1024,
+   1024
+  ],
+  "bytes": 197279
+ },
+ {
+  "index": 67,
+  "src": "Assets/Framed pictures/1789744616206621.png",
+  "px": [
+   1024,
+   1024
+  ],
+  "raw_px": [
+   1024,
+   1024
+  ],
+  "exif": 1,
+  "sha256": "1e38de0a4794dc97a20801cf404651a676edbca287461a373637af39830654e5",
+  "pixelhash": "d87df35989b52e28a325fc373a8eff5caf8aaff1c7d4f787ccdc7bd3d5ca3dee",
+  "reuse_host": false,
+  "path": "WORLD/ARTWORK/P92",
+  "mat": "M_Frm_1789744616206621",
+  "slot": 1,
+  "aliases": [],
+  "file": "a67_d87df35989.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a67_d87df35989.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh1002/a67.png",
+  "world_w": 1.2,
+  "world_h": 1.2,
+  "host_px": [
+   1024,
+   1024
+  ],
+  "bytes": 186127
+ },
+ {
+  "index": 68,
+  "src": "Assets/Framed pictures/HPMjTAfXMAA_Yva.jpg",
+  "px": [
+   3840,
+   2160
+  ],
+  "raw_px": [
+   3840,
+   2160
+  ],
+  "exif": 1,
+  "sha256": "282d8f453a181b40c0aa18eea856db2bdc88ad8ff76eb496cea839d7c23ff14a",
+  "pixelhash": "60b4ee847c38a3563399d90b256bc1b68688a2455b0fad54296d85cf0a7ecbe3",
+  "reuse_host": false,
+  "path": "WORLD/ARTWORK/P100",
+  "mat": "M_Frm_HPMjTAfXMAA_Yva",
+  "slot": 1,
+  "aliases": [],
+  "file": "a68_60b4ee847c.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a68_60b4ee847c.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a68.png",
+  "world_w": 2.3112,
+  "world_h": 1.3,
+  "host_px": [
+   2048,
+   1152
+  ],
+  "bytes": 262614
+ },
+ {
+  "index": 69,
+  "src": "Assets/Framed pictures/image_2.png",
+  "px": [
+   2160,
+   3840
+  ],
+  "raw_px": [
+   2160,
+   3840
+  ],
+  "exif": 1,
+  "sha256": "ae48c117d9b24b01f7c0a33ac38b5d03209754c567a29754be123809fda97723",
+  "pixelhash": "bd19c335f38352c82e1267b770ae16fd562907966fc6a2727b635820cb3dc802",
+  "reuse_host": false,
+  "path": "WORLD/ARTWORK/P39",
+  "mat": "M_Frm_image_2",
+  "slot": 1,
+  "aliases": [],
+  "file": "a69_bd19c335f3.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a69_bd19c335f3.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a69.png",
+  "world_w": 0.7875,
+  "world_h": 1.4001,
+  "host_px": [
+   1152,
+   2048
+  ],
+  "bytes": 220701
  }
 ]
