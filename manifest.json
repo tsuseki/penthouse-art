@@ -2513,5 +2513,33 @@
    2048
   ],
   "bytes": 220701
+ },
+ {
+  "index": 70,
+  "src": "Assets/satori.png",
+  "px": [
+   1497,
+   842
+  ],
+  "raw_px": [
+   1497,
+   842
+  ],
+  "exif": 1,
+  "sha256": "8377c3bfe10b4665a68e79569c8fb182e709f4711f504525ce04706b16f7cee4",
+  "pixelhash": "c0c5c7eec363854efc34b02c9938c142e30bbd1e3f3a53977a30a332964cba6d",
+  "reuse_host": false,
+  "path": "INTERIOR_F2_PRIVATE/Battlestation/BS_Screen",
+  "mat": "M_Screen_Satori",
+  "slot": 1,
+  "aliases": [],
+  "file": "a70_c0c5c7eec3.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a70_c0c5c7eec3.jpg",
+  "thumb": "Assets/satori.png",
+  "host_px": [
+   1497,
+   842
+  ],
+  "bytes": 99461
  }
 ]
