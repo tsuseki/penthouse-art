@@ -25,16 +25,16 @@
   "mat": "M_Frm_07_07_26_201004",
   "slot": 1,
   "aliases": [],
-  "file": "a00.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a00.jpg",
+  "file": "a00_fde4c36d1b.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a00_fde4c36d1b.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a00.png",
   "world_w": 0.67962,
   "world_h": 0.465,
   "host_px": [
-   512,
-   350
+   1340,
+   917
   ],
-  "bytes": 61530
+  "bytes": 292555
  },
  {
   "index": 1,
@@ -581,16 +581,16 @@
   "mat": "M_Frm_1771119352683",
   "slot": 1,
   "aliases": [],
-  "file": "a15.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a15.jpg",
+  "file": "a15_65cf589aa2.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a15_65cf589aa2.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a15.png",
   "world_w": 0.72527,
   "world_h": 1.29945,
   "host_px": [
-   512,
-   917
+   726,
+   1300
   ],
-  "bytes": 98559
+  "bytes": 190702
  },
  {
   "index": 16,
@@ -880,16 +880,16 @@
   "mat": "M_Frm_4",
   "slot": 1,
   "aliases": [],
-  "file": "a24.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a24.jpg",
+  "file": "a24_5f64faa2d7.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a24_5f64faa2d7.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a24.png",
   "world_w": 1.31561,
   "world_h": 0.74003,
   "host_px": [
-   689,
-   388
+   1940,
+   1091
   ],
-  "bytes": 44650
+  "bytes": 209089
  },
  {
   "index": 24,
@@ -1250,16 +1250,16 @@
   "mat": "M_Frm_GT9_8StbQAAVNIZ",
   "slot": 1,
   "aliases": [],
-  "file": "a31.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a31.jpg",
+  "file": "a31_682809a50c.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a31_682809a50c.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a31.png",
   "world_w": 1.13573,
   "world_h": 1.20715,
   "host_px": [
-   595,
-   632
+   1129,
+   1200
   ],
-  "bytes": 65206
+  "bytes": 179421
  },
  {
   "index": 34,
@@ -1287,16 +1287,16 @@
   "mat": "M_Frm_hello",
   "slot": 1,
   "aliases": [],
-  "file": "a54.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a54.jpg",
+  "file": "a54_f149e75fd3.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a54_f149e75fd3.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a54.png",
   "world_w": 1.20747,
   "world_h": 0.85844,
   "host_px": [
-   632,
-   449
+   1024,
+   728
   ],
-  "bytes": 48255
+  "bytes": 143852
  },
  {
   "index": 35,
@@ -1324,16 +1324,16 @@
   "mat": "M_Frm_HHNcBU6bUAA3yD2",
   "slot": 1,
   "aliases": [],
-  "file": "a33.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a33.jpg",
+  "file": "a33_52ec4791a9.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a33_52ec4791a9.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a33.png",
   "world_w": 1.0068,
   "world_h": 1.25745,
   "host_px": [
-   516,
-   644
+   820,
+   1024
   ],
-  "bytes": 54022
+  "bytes": 123393
  },
  {
   "index": 36,
@@ -1361,16 +1361,16 @@
   "mat": "M_Frm_I_will_never_vr_sleep_again",
   "slot": 1,
   "aliases": [],
-  "file": "a34.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a34.jpg",
+  "file": "a34_8ca83c8db3.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a34_8ca83c8db3.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a34.png",
   "world_w": 1.94238,
   "world_h": 1.09259,
   "host_px": [
-   1018,
-   573
+   1940,
+   1091
   ],
-  "bytes": 104099
+  "bytes": 317640
  },
  {
   "index": 37,
@@ -1616,16 +1616,16 @@
   "mat": "M_Frm_Social_Conversation_Diagram",
   "slot": 1,
   "aliases": [],
-  "file": "a35.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a35.jpg",
+  "file": "a35_1d016d9309.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a35_1d016d9309.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a35.png",
   "world_w": 0.72268,
   "world_h": 0.93523,
   "host_px": [
-   512,
-   663
+   1236,
+   1600
   ],
-  "bytes": 27294
+  "bytes": 127039
  },
  {
   "index": 44,
@@ -2097,16 +2097,16 @@
   "mat": "M_Frm_VRChat_2025_10_25_23_35_15_591_3840x2160",
   "slot": 1,
   "aliases": [],
-  "file": "a47.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a47.jpg",
+  "file": "a47_4004f3b53c.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a47_4004f3b53c.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a47.png",
   "world_w": 1.94238,
   "world_h": 1.09259,
   "host_px": [
-   1018,
-   573
+   1940,
+   1091
   ],
-  "bytes": 108281
+  "bytes": 318213
  },
  {
   "index": 58,
@@ -2272,8 +2272,8 @@
   "mat": "M_Frm_VRHeels",
   "slot": 1,
   "aliases": [],
-  "file": "a50.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a50.jpg",
+  "file": "a50_6471575cba.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a50_6471575cba.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a50.png",
   "world_w": 0.96473,
   "world_h": 1.17456,
@@ -2281,7 +2281,7 @@
    400,
    487
   ],
-  "bytes": 35464
+  "bytes": 40367
  },
  {
   "index": 63,
@@ -2309,16 +2309,16 @@
   "mat": "M_Frm_VYNsmSaBRmi4NYEyQ9VysQ",
   "slot": 1,
   "aliases": [],
-  "file": "a51.jpg",
-  "url": "https://tsuseki.github.io/penthouse-art/img/a51.jpg",
+  "file": "a51_b2184aaba9.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/a51_b2184aaba9.jpg",
   "thumb": "Assets/Penthouse/EditorArt/Refresh0908/a51.png",
   "world_w": 1.20715,
   "world_h": 1.20715,
   "host_px": [
-   632,
-   632
+   1024,
+   1024
   ],
-  "bytes": 73423
+  "bytes": 222185
  },
  {
   "index": 64,
@@ -2541,5 +2541,149 @@
    842
   ],
   "bytes": 99461
+ },
+ {
+  "index": 71,
+  "src": "Assets/Framed pictures/VRChat_2026-07-11_01-19-19.493_3840x2160_wrld_8422df70-5752-46fb-ba56-8d0f875ca325.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "mat": "M_Frm_VRChat_2026_07_11_01_19_19_493_3840x2160_wrld_8422df70_5752_",
+  "file": "i78_effa9dc557.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i78_effa9dc557.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I78.png",
+  "host_px": [
+   1600,
+   900
+  ],
+  "bytes": 172428,
+  "image_id": "I78"
+ },
+ {
+  "index": 72,
+  "src": "Assets/Framed pictures/HTTkmbtXQAAQ3de.jpg",
+  "px": [
+   3840,
+   2160
+  ],
+  "mat": "M_Frm_HTTkmbtXQAAQ3de",
+  "file": "i76_4b3db0f948.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i76_4b3db0f948.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I76.png",
+  "host_px": [
+   1600,
+   900
+  ],
+  "bytes": 133545,
+  "image_id": "I76"
+ },
+ {
+  "index": 73,
+  "src": "Assets/Framed pictures/HO_zDDyWEAEq5IQ.jpg",
+  "px": [
+   2160,
+   3840
+  ],
+  "mat": "M_Frm_HO_zDDyWEAEq5IQ",
+  "file": "i72_dad851965e.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i72_dad851965e.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I72.png",
+  "host_px": [
+   731,
+   1300
+  ],
+  "bytes": 197296,
+  "image_id": "I72"
+ },
+ {
+  "index": 74,
+  "src": "Assets/Framed pictures/1767529745036117.png",
+  "px": [
+   2560,
+   1440
+  ],
+  "mat": "M_Frm_1767529745036117",
+  "file": "i75_4eb24883c5.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i75_4eb24883c5.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I75.png",
+  "host_px": [
+   1740,
+   979
+  ],
+  "bytes": 347084,
+  "image_id": "I75"
+ },
+ {
+  "index": 75,
+  "src": "Assets/Framed pictures/VRChat_2026-07-24_23-05-54.539_2560x1440.png",
+  "px": [
+   2560,
+   1440
+  ],
+  "mat": "M_Frm_VRChat_2026_07_24_23_05_54_539_2560x1440",
+  "file": "i79_c254d858d2.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i79_c254d858d2.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I79.png",
+  "host_px": [
+   1740,
+   979
+  ],
+  "bytes": 193163,
+  "image_id": "I79"
+ },
+ {
+  "index": 76,
+  "src": "Assets/Framed pictures/VRChat_2026-05-29_23-27-38.780_3840x2160.png",
+  "px": [
+   3840,
+   2160
+  ],
+  "mat": "M_Frm_VRChat_2026_05_29_23_27_38_780_3840x2160",
+  "file": "i77_cc5730261f.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i77_cc5730261f.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I77.png",
+  "host_px": [
+   1440,
+   810
+  ],
+  "bytes": 201068,
+  "image_id": "I77"
+ },
+ {
+  "index": 77,
+  "src": "Assets/Framed pictures/VRChat_2026-07-31_18-21-39.187_2560x1440.png",
+  "px": [
+   2194,
+   1440
+  ],
+  "mat": "M_Frm_VRChat_2026_07_31_18_21_39_187_2560x1440",
+  "file": "i74_de77a67419.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i74_de77a67419.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I74.png",
+  "host_px": [
+   1940,
+   1273
+  ],
+  "bytes": 204462,
+  "image_id": "I74"
+ },
+ {
+  "index": 78,
+  "src": "Assets/Framed pictures/VRChat_2026-04-04_21-00-23.548_1080x1920.png",
+  "px": [
+   1080,
+   1920
+  ],
+  "mat": "M_Frm_VRChat_2026_04_04_21_00_23_548_1080x1920",
+  "file": "i73_e33d19f502.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i73_e33d19f502.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Layout1009/I73.png",
+  "host_px": [
+   731,
+   1300
+  ],
+  "bytes": 211315,
+  "image_id": "I73"
  }
 ]
