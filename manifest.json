@@ -2685,5 +2685,23 @@
   ],
   "bytes": 211315,
   "image_id": "I73"
+ },
+ {
+  "index": 79,
+  "src": "Assets/Framed pictures/500days.png",
+  "px": [
+   4096,
+   2048
+  ],
+  "mat": "M_Frm_500days",
+  "file": "i80_c72b27d1fa.jpg",
+  "url": "https://tsuseki.github.io/penthouse-art/img/i80_c72b27d1fa.jpg",
+  "thumb": "Assets/Penthouse/EditorArt/Art1018/I80.png",
+  "host_px": [
+   2048,
+   1024
+  ],
+  "bytes": 558242,
+  "image_id": "I80"
  }
 ]
