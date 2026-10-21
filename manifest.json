@@ -2721,5 +2721,23 @@
     "bytes": 599544,
     "image_id": "I81",
     "note": "VR room left monitor BS2_Screen, top 16:9 crop (bottom cut), loader slot 56"
+  },
+  {
+    "index": 81,
+    "src": "Assets/Framed pictures/Trackingtrans.jpg",
+    "px": [
+      545,
+      1024
+    ],
+    "mat": "M_Frm_Trackingtrans",
+    "file": "i82_691e79ab96.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i82_691e79ab96.jpg",
+    "host_px": [
+      545,
+      1024
+    ],
+    "bytes": 120053,
+    "image_id": "I82",
+    "note": "P129 (F2 hallway pier), replaces I# About_To_Get_Pozzed, loader slot 12"
   }
 ]
