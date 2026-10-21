@@ -2706,20 +2706,20 @@
   },
   {
     "index": 80,
-    "src": "Pictures/I81 - 4chanfit.jpg",
+    "src": "Pictures/I81 - 4chan monitor.jpg",
     "px": [
-      3732,
-      1918
+      2774,
+      1797
     ],
     "mat": "M_Screen_4chanFit_Remake",
-    "file": "i81_4f21f6b4ca.jpg",
-    "url": "https://tsuseki.github.io/penthouse-art/img/i81_4f21f6b4ca.jpg",
+    "file": "i81_e92a698a99.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i81_e92a698a99.jpg",
     "host_px": [
       2048,
       1152
     ],
-    "bytes": 621583,
+    "bytes": 599544,
     "image_id": "I81",
-    "note": "VR room left monitor BS2_Screen, letterboxed to 16:9, loader slot 56"
+    "note": "VR room left monitor BS2_Screen, top 16:9 crop (bottom cut), loader slot 56"
   }
 ]
