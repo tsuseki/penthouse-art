@@ -2739,5 +2739,23 @@
     "bytes": 120053,
     "image_id": "I82",
     "note": "P129 (F2 hallway pier), replaces I# About_To_Get_Pozzed, loader slot 12"
+  },
+  {
+    "index": 82,
+    "src": "Assets/Framed pictures/I83_grandpa_bike.png",
+    "px": [
+      1920,
+      1080
+    ],
+    "mat": "M_Frm_I83",
+    "file": "i83_88b809ea03.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i83_88b809ea03.jpg",
+    "host_px": [
+      1920,
+      1080
+    ],
+    "bytes": 108448,
+    "image_id": "I83",
+    "note": "P33 (games room, above mahjong table A switch), replaces I64 wawa pee, loader slot of M_Frm_wawa_pee"
   }
 ]
