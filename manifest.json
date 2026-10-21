@@ -2745,16 +2745,16 @@
     "src": "Assets/Framed pictures/I83_grandpa_bike.png",
     "px": [
       1920,
-      1080
+      1920
     ],
     "mat": "M_Frm_I83",
     "file": "i83_88b809ea03.jpg",
     "url": "https://tsuseki.github.io/penthouse-art/img/i83_88b809ea03.jpg",
     "host_px": [
       1920,
-      1080
+      1920
     ],
-    "bytes": 294611,
+    "bytes": 461742,
     "image_id": "I83",
     "note": "P33 (games room, above mahjong table A switch), replaces I64 wawa pee, loader slot of M_Frm_wawa_pee"
   }
