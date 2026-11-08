@@ -2757,5 +2757,23 @@
     "bytes": 300290,
     "image_id": "I83",
     "note": "P33 (games room, above mahjong table A switch), replaces I64 wawa pee, loader slot of M_Frm_wawa_pee"
+  },
+  {
+    "index": 83,
+    "src": "Assets/Framed pictures/I84_connect_four.png",
+    "px": [
+      1920,
+      1080
+    ],
+    "mat": "M_Frm_I84",
+    "file": "i84_bdb768bff7.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i84_bdb768bff7.jpg",
+    "host_px": [
+      1920,
+      1080
+    ],
+    "bytes": 202929,
+    "image_id": "I84",
+    "note": "P143 (F2 server/VR room desk wall, right of Diddy P128), replaces I77, loader slot 52"
   }
 ]
