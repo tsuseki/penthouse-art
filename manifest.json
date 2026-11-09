@@ -2775,5 +2775,23 @@
     "bytes": 202929,
     "image_id": "I84",
     "note": "P143 (F2 server/VR room desk wall, right of Diddy P128), replaces I77, loader slot 52"
+  },
+  {
+    "index": 84,
+    "src": "Assets/Framed pictures/I85_1789769060815934.png",
+    "px": [
+      1920,
+      1080
+    ],
+    "mat": "M_Frm_I85",
+    "file": "i85_f011ba334b.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i85_f011ba334b.jpg",
+    "host_px": [
+      1920,
+      1080
+    ],
+    "bytes": 364957,
+    "image_id": "I85",
+    "note": "P100 (S1B mezzanine wall above the stair void), replaces I69 (HPMjTAfXMAA_Yva), loader slot 4"
   }
 ]
