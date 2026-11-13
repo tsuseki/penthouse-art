@@ -1,0 +1,4 @@
+{
+  "_help": "Patreon user id -> exact VRChat display name (case-sensitive). New patrons appear in unlinked.txt with their id.",
+  "_example_12345678": "SomeVRChatName"
+}

@@ -1,0 +1,28 @@
+name: patreon-sync
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+  push:
+    paths: [links.json]
+permissions:
+  contents: write
+concurrency: patreon-sync
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/patreon_sync.py
+        env:
+          PATREON_TOKEN: ${{ secrets.PATREON_TOKEN }}
+          PATREON_CAMPAIGN_ID: ${{ secrets.PATREON_CAMPAIGN_ID }}
+      - name: Commit if changed
+        run: |
+          git add members.txt unlinked.txt
+          git diff --cached --quiet && exit 0
+          git -c user.name=patreon-sync -c user.email=actions@users.noreply.github.com commit -m "Sync Patreon members"
+          git push
