@@ -2793,5 +2793,23 @@
     "bytes": 364957,
     "image_id": "I85",
     "note": "P100 (S1B mezzanine wall above the stair void), replaces I69 (HPMjTAfXMAA_Yva), loader slot 4"
+  },
+  {
+    "index": 85,
+    "src": "Assets/Framed pictures/I86_The_Money_is_Calling.png",
+    "px": [
+      1920,
+      1080
+    ],
+    "mat": "M_Frm_I86",
+    "file": "i86_025ea97451.jpg",
+    "url": "https://tsuseki.github.io/penthouse-art/img/i86_025ea97451.jpg",
+    "host_px": [
+      1920,
+      1080
+    ],
+    "bytes": 256775,
+    "image_id": "I86",
+    "note": "P142 (F2 plaster wall beside the stair-void opening), replaces I79 (cat-ear girls), loader slot 51 (S-0390)"
   }
 ]
